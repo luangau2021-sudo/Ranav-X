@@ -1,0 +1,10 @@
+streamlit
+folium
+requests
+streamlit-js-eval
+numpy
+scikit-learn
+pandas
+joblib
+streamlit-autorefresh
+branca

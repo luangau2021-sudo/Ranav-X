@@ -1,0 +1,59 @@
+{
+  "accuracy": 0.9403,
+  "f1_macro": 0.8818,
+  "f1_weighted": 0.9424,
+  "cv_f1_mean": 0.6966,
+  "cv_f1_std": 0.1438,
+  "n_samples": 3261,
+  "n_train": 2608,
+  "n_test": 653,
+  "n_zones": 69,
+  "n_csv_zones": 50,
+  "feature_importance": {
+    "lat": 0.0437,
+    "lon": 0.0454,
+    "dist_nearest_km": 0.3078,
+    "nearest_score": 0.1343,
+    "is_landslide_zone": 0.0234,
+    "is_flood_zone": 0.0286,
+    "is_bad_road_zone": 0.0044,
+    "is_geological_zone": 0.093,
+    "zone_count_5km": 0.0512,
+    "max_score_10km": 0.1804,
+    "lat_normalized": 0.04,
+    "lon_normalized": 0.0478
+  },
+  "class_report": {
+    "Thấp": {
+      "precision": 0.968609865470852,
+      "recall": 0.9432314410480349,
+      "f1-score": 0.9557522123893805,
+      "support": 229.0
+    },
+    "Trung bình": {
+      "precision": 0.958656330749354,
+      "recall": 0.9416243654822335,
+      "f1-score": 0.9500640204865557,
+      "support": 394.0
+    },
+    "Cao": {
+      "precision": 0.627906976744186,
+      "recall": 0.9,
+      "f1-score": 0.7397260273972602,
+      "support": 30.0
+    },
+    "accuracy": 0.9402756508422665,
+    "macro avg": {
+      "precision": 0.8517243909881307,
+      "recall": 0.9282852688434228,
+      "f1-score": 0.8818474200910654,
+      "support": 653.0
+    },
+    "weighted avg": {
+      "precision": 0.9469517041506834,
+      "recall": 0.9402756508422665,
+      "f1-score": 0.9423955000471501,
+      "support": 653.0
+    }
+  }
+}

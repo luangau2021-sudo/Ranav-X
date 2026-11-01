@@ -1,0 +1,67 @@
+
+{
+	"version": "1.0",
+	"description": "Vùng nguy hiểm tại Việt Nam — thiên tai, địa chất",
+	"zones": [
+		{
+			"id": "vz_001",
+			"name": "Đèo Hải Vân",
+			"lat": 16.1714,
+			"lon": 108.1153,
+			"radius_km": 15,
+			"risk_score": 0.75,
+			"type": "mountain_pass",
+			"description": "Đèo cao, sương mù, nguy cơ tai nạn cao vào mùa mưa"
+		},
+		{
+			"id": "vz_002",
+			"name": "Đèo Mã Pí Lèng",
+			"lat": 23.1425,
+			"lon": 105.3136,
+			"radius_km": 20,
+			"risk_score": 0.8,
+			"type": "mountain_pass",
+			"description": "Đèo hiểm trở nhất miền Bắc, dốc đứng, vực sâu"
+		},
+		{
+			"id": "vz_003",
+			"name": "Vùng sạt lở Quảng Nam",
+			"lat": 15.5394,
+			"lon": 107.9855,
+			"radius_km": 30,
+			"risk_score": 0.85,
+			"type": "landslide",
+			"description": "Khu vực thường xuyên sạt lở vào mùa mưa tháng 9-11"
+		},
+		{
+			"id": "vz_004",
+			"name": "Vùng ngập lụt Đồng Tháp",
+			"lat": 10.4937,
+			"lon": 105.6881,
+			"radius_km": 40,
+			"risk_score": 0.7,
+			"type": "flood",
+			"description": "Vùng trũng thấp, lũ hàng năm tháng 8-10"
+		},
+		{
+			"id": "vz_005",
+			"name": "Đèo Ô Quy Hồ",
+			"lat": 22.3602,
+			"lon": 103.7574,
+			"radius_km": 18,
+			"risk_score": 0.78,
+			"type": "mountain_pass",
+			"description": "Đèo dài nhất Tây Bắc, thời tiết thay đổi đột ngột"
+		},
+		{
+			"id": "vz_006",
+			"name": "Vùng cháy rừng Tây Nguyên",
+			"lat": 13.0000,
+			"lon": 108.0000,
+			"radius_km": 50,
+			"risk_score": 0.65,
+			"type": "wildfire",
+			"description": "Nguy cơ cháy rừng cao vào mùa khô tháng 1-4"
+		}
+	]
+}

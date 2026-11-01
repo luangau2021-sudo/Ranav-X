@@ -1,0 +1,235 @@
+{
+  "trails": {
+    "TRIP_user_001_1780371818": {
+      "trip_id": "TRIP_user_001_1780371818",
+      "user_id": "user_001",
+      "title": "Hành trình của tôi",
+      "origin": "đạ huoai",
+      "destination": "đà lạt",
+      "start_time": 1780371818.477754,
+      "end_time": null,
+      "checkpoints": [],
+      "total_distance_km": 0.0,
+      "status": "active"
+    },
+    "TRIP_user_001_1780372241": {
+      "trip_id": "TRIP_user_001_1780372241",
+      "user_id": "user_001",
+      "title": "Hành trình của tôi",
+      "origin": "",
+      "destination": "",
+      "start_time": 1780372241.0491047,
+      "end_time": null,
+      "checkpoints": [],
+      "total_distance_km": 0.0,
+      "status": "active"
+    },
+    "TRIP_user_001_1780637190": {
+      "trip_id": "TRIP_user_001_1780637190",
+      "user_id": "user_001",
+      "title": "Hành trình của tôi",
+      "origin": "đạ huoai",
+      "destination": "đà lạt",
+      "start_time": 1780637190.0910668,
+      "end_time": null,
+      "checkpoints": [],
+      "total_distance_km": 0.0,
+      "status": "active"
+    },
+    "TRIP_user_001_1780637655": {
+      "trip_id": "TRIP_user_001_1780637655",
+      "user_id": "user_001",
+      "title": "Hành trình của tôi",
+      "origin": "đạ huoai",
+      "destination": "đà lạt",
+      "start_time": 1780637655.9080691,
+      "end_time": null,
+      "checkpoints": [],
+      "total_distance_km": 0.0,
+      "status": "active"
+    },
+    "TRIP_user_001_1780637684": {
+      "trip_id": "TRIP_user_001_1780637684",
+      "user_id": "user_001",
+      "title": "Hành trình của tôi",
+      "origin": "đạ huoai",
+      "destination": "",
+      "start_time": 1780637684.8311148,
+      "end_time": null,
+      "checkpoints": [],
+      "total_distance_km": 0.0,
+      "status": "active"
+    }
+  },
+  "trips": {
+    "trip_244b1844": {
+      "trip_id": "trip_244b1844",
+      "user_id": "user_001",
+      "title": "Hành trình của tôi",
+      "origin": "đạ huoai",
+      "destination": "đà lạt",
+      "started_at": "2026-06-05T13:13:43.764314",
+      "checkpoints": [
+        {
+          "cp_id": "cp_7eb3cc",
+          "timestamp": "2026-06-05T13:14:40.037645",
+          "lat": 11.3894303,
+          "lon": 107.5460298,
+          "name": "nhà",
+          "emotion": 2,
+          "emotion_label": "😐",
+          "note": "kkk",
+          "weather": "☀️ Nắng",
+          "speed_kmh": 0,
+          "music": "come my way",
+          "media": [
+            "C:\\Users\\Admin\\Desktop\\tripSmart\\data\\media\\trip_244b1844\\upload_4c3b5ccb.jpg"
+          ]
+        },
+        {
+          "cp_id": "cp_db594c",
+          "timestamp": "2026-06-05T13:14:42.884568",
+          "lat": 11.3894303,
+          "lon": 107.5460298,
+          "name": "nhà",
+          "emotion": 2,
+          "emotion_label": "😐",
+          "note": "kkk",
+          "weather": "☀️ Nắng",
+          "speed_kmh": 0,
+          "music": "come my way",
+          "media": [
+            "C:\\Users\\Admin\\Desktop\\tripSmart\\data\\media\\trip_244b1844\\upload_3a2607e1.jpg"
+          ]
+        },
+        {
+          "cp_id": "cp_32338f",
+          "timestamp": "2026-06-05T13:15:17.684335",
+          "lat": 11.5460816,
+          "lon": 107.8094962,
+          "name": "vincom",
+          "emotion": 4,
+          "emotion_label": "😄",
+          "note": "vui",
+          "weather": "🌤️ Có mây",
+          "speed_kmh": 0,
+          "music": " nơi này có anh",
+          "media": [
+            "C:\\Users\\Admin\\Desktop\\tripSmart\\data\\media\\trip_244b1844\\upload_c29635f9.jpg",
+            "C:\\Users\\Admin\\Desktop\\tripSmart\\data\\media\\trip_244b1844\\upload_8b4865c6.jpg"
+          ]
+        }
+      ],
+      "summary": {
+        "total_checkpoints": 3,
+        "avg_emotion": 2.7,
+        "mood_summary": "😊 Bình thường",
+        "best_moment": "vincom",
+        "best_emotion": "😄",
+        "total_media": 4
+      }
+    },
+    "trip_d0496151": {
+      "trip_id": "trip_d0496151",
+      "user_id": "user_001",
+      "title": "Hành trình của tôi",
+      "origin": "hcm ",
+      "destination": "đà lạt ",
+      "started_at": "2026-06-05T13:16:46.819836",
+      "checkpoints": [
+        {
+          "cp_id": "cp_255a2d",
+          "timestamp": "2026-06-05T13:17:22.260805",
+          "lat": 11.3894303,
+          "lon": 107.5460298,
+          "name": "nhà",
+          "emotion": 3,
+          "emotion_label": "😊",
+          "note": "dd",
+          "weather": "☀️ Nắng",
+          "speed_kmh": 0,
+          "music": "noi nay co anh",
+          "media": []
+        },
+        {
+          "cp_id": "cp_6cb2c3",
+          "timestamp": "2026-06-05T13:17:22.976260",
+          "lat": 11.3894303,
+          "lon": 107.5460298,
+          "name": "nhà",
+          "emotion": 3,
+          "emotion_label": "😊",
+          "note": "dd",
+          "weather": "☀️ Nắng",
+          "speed_kmh": 0,
+          "music": "noi nay co anh",
+          "media": []
+        },
+        {
+          "cp_id": "cp_72668b",
+          "timestamp": "2026-06-05T13:17:48.169733",
+          "lat": 11.3894303,
+          "lon": 107.5460298,
+          "name": "nhà",
+          "emotion": 3,
+          "emotion_label": "😊",
+          "note": "dd",
+          "weather": "☀️ Nắng",
+          "speed_kmh": 0,
+          "music": "noi nay co anh",
+          "media": []
+        },
+        {
+          "cp_id": "cp_c85c14",
+          "timestamp": "2026-06-05T13:17:49.754281",
+          "lat": 11.3894303,
+          "lon": 107.5460298,
+          "name": "nhà",
+          "emotion": 3,
+          "emotion_label": "😊",
+          "note": "dd",
+          "weather": "☀️ Nắng",
+          "speed_kmh": 0,
+          "music": "noi nay co anh",
+          "media": []
+        },
+        {
+          "cp_id": "cp_05c06b",
+          "timestamp": "2026-06-05T13:17:50.895185",
+          "lat": 11.3894303,
+          "lon": 107.5460298,
+          "name": "nhà",
+          "emotion": 3,
+          "emotion_label": "😊",
+          "note": "dd",
+          "weather": "☀️ Nắng",
+          "speed_kmh": 0,
+          "music": "noi nay co anh",
+          "media": []
+        },
+        {
+          "cp_id": "cp_abd1ad",
+          "timestamp": "2026-06-05T13:21:09.626054",
+          "lat": 11.3894303,
+          "lon": 107.5460298,
+          "name": "nhà",
+          "emotion": 3,
+          "emotion_label": "😊",
+          "note": "dd",
+          "weather": "☀️ Nắng",
+          "speed_kmh": 0,
+          "music": "noi nay co anh",
+          "media": []
+        }
+      ],
+      "summary": {
+        "total_checkpoints": 6,
+        "avg_emotion": 3.0,
+        "mood_summary": "😊 Bình thường",
+        "best_moment": "nhà",
+        "best_emotion": "😊",
+        "total_media": 0
+      }
+    }
+  }
+}

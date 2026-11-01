@@ -1,0 +1,55 @@
+{
+  "version": "1.0",
+  "description": "Dữ liệu địa chất rủi ro Việt Nam",
+  "high_risk_zones": [
+    {
+      "id": "geo_001",
+      "name": "Đới đứt gãy Sông Hồng",
+      "lat": 22.0,
+      "lon": 104.0,
+      "radius_km": 80,
+      "risk_score": 0.72,
+      "type": "fault_zone",
+      "description": "Đới đứt gãy hoạt động, nguy cơ động đất thấp đến trung bình"
+    },
+    {
+      "id": "geo_002",
+      "name": "Đới đứt gãy Điện Biên – Lai Châu",
+      "lat": 21.8,
+      "lon": 103.1,
+      "radius_km": 60,
+      "risk_score": 0.76,
+      "type": "fault_zone",
+      "description": "Đới có lịch sử động đất, cần theo dõi"
+    },
+    {
+      "id": "geo_003",
+      "name": "Vùng karst Hà Giang",
+      "lat": 23.0,
+      "lon": 105.0,
+      "radius_km": 40,
+      "risk_score": 0.65,
+      "type": "karst",
+      "description": "Địa hình karst dễ sạt lở, hang động có thể sụp"
+    },
+    {
+      "id": "geo_004",
+      "name": "Đới đứt gãy Đà Nẵng – Huế",
+      "lat": 16.5,
+      "lon": 107.8,
+      "radius_km": 50,
+      "risk_score": 0.6,
+      "type": "fault_zone",
+      "description": "Đới đứt gãy miền Trung, rủi ro trung bình"
+    }
+  ],
+  "safe_zones": [
+    {
+      "name": "Đồng bằng Nam Bộ trung tâm",
+      "lat": 10.5,
+      "lon": 106.0,
+      "risk_score": 0.15,
+      "description": "Nền địa chất ổn định, ít rủi ro địa chất"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+id,name,province,lat,lon,risk_type,risk_level,source,note
+1,Đèo Bảo Lộc,Lâm Đồng,11.5000,108.0700,landslide,5,báo chí,Đèo dài nhiều cua nguy cơ sạt lở mùa mưa
+2,Đèo Prenn,Lâm Đồng,11.9100,108.4300,landslide,4,báo chí,Đường đèo nguy hiểm khi mưa lớn và sương mù
+3,Đèo Mimosa,Lâm Đồng,11.8800,108.4600,bad_road,4,thực tế địa phương,Đường đèo quanh co dễ nguy hiểm khi trời mưa
+4,Đèo Khánh Lê,Khánh Hòa,12.1600,108.7200,landslide,5,báo chí,Tuyến đèo nối Đà Lạt và Nha Trang có nguy cơ sạt lở
+5,Đèo Ngoạn Mục,Ninh Thuận,11.7400,108.6700,landslide,4,báo chí,Đèo dốc nhiều cua nguy hiểm khi mưa lớn
+6,Đèo Hải Vân,Đà Nẵng,16.2000,107.9500,bad_road,5,báo chí,Đèo cao nhiều khúc cua sương mù và nguy cơ tai nạn
+7,Đèo Cả,Phú Yên,12.9300,109.3600,bad_road,4,báo chí,Tuyến đèo ven biển có nhiều khúc cua và dốc
+8,Đèo Cù Mông,Bình Định,13.3900,109.2300,bad_road,4,báo chí,Tuyến đèo có nhiều xe tải và khúc cua nguy hiểm
+9,Đèo An Khê,Bình Định,13.9600,108.7600,landslide,4,báo chí,Tuyến đèo miền núi dễ sạt lở khi mưa lớn
+10,Đèo Mang Yang,Gia Lai,14.2400,108.8800,bad_road,4,báo chí,Đèo núi quốc lộ 19 nhiều xe tải và đường dốc
+11,Đèo Lò Xo,Kon Tum,15.1800,107.7000,landslide,5,báo chí,Đèo dài vùng núi nguy cơ sạt lở và tai nạn
+12,Đèo Pha Đin,Điện Biên,21.8300,104.1400,bad_road,5,báo chí,Đèo cao nhiều cua tay áo và sương mù
+13,Đèo Ô Quy Hồ,Lào Cai,22.3500,103.7800,landslide,5,báo chí,Vùng núi cao có nguy cơ sạt lở và đá rơi
+14,Đèo Mã Pì Lèng,Hà Giang,23.2400,105.4100,landslide,5,báo chí,Địa hình hiểm trở nhiều vách núi nguy hiểm
+15,Đèo Khau Phạ,Yên Bái,21.7800,104.2300,landslide,4,báo chí,Vùng núi cao dễ sạt lở mùa mưa
+16,Ngập Nguyễn Hữu Cảnh,TP.HCM,10.7900,106.7200,flood,4,báo chí,Khu vực thường xuyên ngập sau mưa lớn
+17,Ngập Thảo Điền,TP.HCM,10.8000,106.7400,flood,4,báo chí,Khu vực thấp dễ ngập khi mưa và triều cường
+18,Ngập Quốc lộ 13,TP.HCM,10.8300,106.7100,flood,3,báo chí,Tuyến đường có nguy cơ ngập cục bộ
+19,Ngập đường Nguyễn Văn Quá,TP.HCM,10.8500,106.6200,flood,3,báo chí,Khu vực thường ngập khi mưa lớn
+20,Ngập đường Kinh Dương Vương,TP.HCM,10.7500,106.6100,flood,4,báo chí,Tuyến đường thấp dễ ngập sâu
+21,Ngập vòng xoay An Lạc,TP.HCM,10.7300,106.6100,flood,3,báo chí,Khu vực giao thông đông và dễ ngập
+22,Ngập Cần Thơ trung tâm,Cần Thơ,10.0400,105.7500,flood,4,báo chí,Khu vực chịu ảnh hưởng triều cường và ngập theo mùa
+23,Ngập Ninh Kiều,Cần Thơ,10.0300,105.7800,flood,4,báo chí,Khu vực ven sông dễ ngập khi triều cường
+24,Ngập Long Xuyên,An Giang,10.3800,105.4400,flood,3,báo chí,Khu vực đô thị đồng bằng sông Cửu Long dễ ngập
+25,Ngập Châu Đốc,An Giang,10.7000,105.1200,flood,3,báo chí,Khu vực ven sông chịu ảnh hưởng mùa lũ
+26,Ngập Rạch Giá,Kiên Giang,10.0100,105.0800,flood,3,báo chí,Khu vực ven biển dễ ngập khi mưa lớn
+27,Ngập Cà Mau,Cà Mau,9.1800,105.1500,flood,3,báo chí,Khu vực thấp chịu ảnh hưởng mưa lớn và triều
+28,Ngập Hội An,Quảng Nam,15.8800,108.3400,flood,5,báo chí,Khu vực thường chịu lũ vào mùa mưa bão
+29,Ngập Huế,Thừa Thiên Huế,16.4600,107.5900,flood,4,báo chí,Khu vực ven sông dễ ngập khi mưa lớn
+30,Ngập Quảng Bình,Quảng Bình,17.4700,106.6000,flood,4,báo chí,Vùng trũng có nguy cơ lũ lụt mùa mưa bão
+31,Đường đèo Tà Nung,Lâm Đồng,11.9200,108.3400,bad_road,3,thực tế địa phương,Đường quanh co nhiều đoạn dốc
+32,Đường đèo Đại Ninh,Lâm Đồng,11.5200,108.3200,bad_road,4,thực tế địa phương,Tuyến đèo nối Lâm Đồng và Bình Thuận có nhiều đoạn nguy hiểm
+33,Khu vực Liên Khương,Lâm Đồng,11.7500,108.3700,bad_road,3,thực tế địa phương,Khu vực giao thông đông gần tuyến đèo
+34,Quốc lộ 20 đoạn Đạ Huoai,Lâm Đồng,11.4200,107.6400,bad_road,4,thực tế địa phương,Tuyến nhiều xe tải và có nguy cơ tai nạn khi mưa
+35,Quốc lộ 20 đoạn Định Quán,Đồng Nai,11.0700,107.3500,accident,3,báo chí,Tuyến quốc lộ đông xe có nguy cơ tai nạn
+36,Dầu Giây,Đồng Nai,10.9200,107.2500,accident,3,báo chí,Nút giao giao thông lớn nhiều xe tải
+37,Quốc lộ 51 đoạn Long Thành,Đồng Nai,10.7900,106.9500,accident,4,báo chí,Tuyến đường đông phương tiện hướng Vũng Tàu
+38,Quốc lộ 51 đoạn Bà Rịa,Bà Rịa Vũng Tàu,10.5000,107.1800,accident,3,báo chí,Tuyến đông xe du lịch và xe tải
+39,Đường ven biển Vũng Tàu,Bà Rịa Vũng Tàu,10.3500,107.0800,flood,2,báo chí,Khu vực ven biển có nguy cơ ngập cục bộ khi mưa lớn
+40,Đèo Cổ Mã,Khánh Hòa,12.6200,109.3400,bad_road,3,báo chí,Đường đèo ven biển có đoạn cua nguy hiểm
+41,Sạt lở Trà Leng,Quảng Nam,15.2000,108.1000,landslide,5,báo chí,Vùng núi từng ghi nhận sạt lở nghiêm trọng
+42,Sạt lở Nam Trà My,Quảng Nam,15.2500,108.0500,landslide,5,báo chí,Khu vực miền núi có nguy cơ sạt lở cao mùa mưa
+43,Sạt lở A Lưới,Thừa Thiên Huế,16.2300,107.3000,landslide,4,báo chí,Vùng núi phía tây dễ sạt lở khi mưa lớn
+44,Sạt lở Hướng Hóa,Quảng Trị,16.6800,106.6800,landslide,4,báo chí,Khu vực đồi núi có nguy cơ sạt lở
+45,Sạt lở Kỳ Sơn,Nghệ An,19.4100,104.2300,landslide,5,báo chí,Vùng núi cao dễ lũ quét và sạt lở
+46,Sạt lở Mường Lát,Thanh Hóa,20.5200,104.6200,landslide,5,báo chí,Vùng núi biên giới nguy cơ sạt lở cao
+47,Sạt lở Mai Châu,Hòa Bình,20.6600,105.0800,landslide,4,báo chí,Vùng đèo núi có nguy cơ sạt lở khi mưa
+48,Sạt lở Bắc Hà,Lào Cai,22.5400,104.2900,landslide,4,báo chí,Vùng núi cao có nguy cơ đá rơi và sạt lở
+49,Sạt lở Mù Cang Chải,Yên Bái,21.8500,104.0900,landslide,5,báo chí,Khu vực đồi núi dốc nguy cơ sạt lở cao
+50,Sạt lở Đồng Văn,Hà Giang,23.2800,105.3600,landslide,5,báo chí,Vùng cao nguyên đá có nguy cơ đá rơi và sạt lở

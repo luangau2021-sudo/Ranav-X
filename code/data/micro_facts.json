@@ -1,0 +1,1186 @@
+{
+  "facts": [
+    {
+      "id": "distance_001",
+      "category": "distance",
+      "trigger": [
+        "default",
+        "distance"
+      ],
+      "text": "Giữ khoảng cách bốn giây.",
+      "priority": 7,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "distance_002",
+      "category": "distance",
+      "trigger": [
+        "rain",
+        "weather",
+        "distance"
+      ],
+      "text": "Mưa: tăng khoảng cách với xe trước.",
+      "priority": 9,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "distance_003",
+      "category": "distance",
+      "trigger": [
+        "default",
+        "distance"
+      ],
+      "text": "Đừng bám sát xe tải.",
+      "priority": 7,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "distance_004",
+      "category": "distance",
+      "trigger": [
+        "mountain",
+        "slope",
+        "distance"
+      ],
+      "text": "Xuống dốc: chừa khoảng cách xa hơn.",
+      "priority": 8,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "distance_005",
+      "category": "distance",
+      "trigger": [
+        "night",
+        "distance"
+      ],
+      "text": "Ban đêm: giữ khoảng cách xa hơn.",
+      "priority": 8,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "distance_006",
+      "category": "distance",
+      "trigger": [
+        "motorbike",
+        "distance"
+      ],
+      "text": "Xe máy: tránh sát đuôi ô tô.",
+      "priority": 8,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "distance_007",
+      "category": "distance",
+      "trigger": [
+        "default",
+        "distance"
+      ],
+      "text": "Thấy đèn phanh, giảm tốc sớm.",
+      "priority": 6,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "distance_008",
+      "category": "distance",
+      "trigger": [
+        "traffic",
+        "distance"
+      ],
+      "text": "Kẹt xe: đi đều, tránh bám sát.",
+      "priority": 6,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "distance_009",
+      "category": "distance",
+      "trigger": [
+        "mountain",
+        "slope"
+      ],
+      "text": "Cua khuất: giảm tốc trước.",
+      "priority": 8,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "distance_010",
+      "category": "distance",
+      "trigger": [
+        "traffic",
+        "default"
+      ],
+      "text": "Dừng xe: chừa khoảng thoát.",
+      "priority": 6,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "weather_011",
+      "category": "weather",
+      "trigger": [
+        "rain",
+        "weather"
+      ],
+      "text": "Mưa: phanh sớm và nhẹ.",
+      "priority": 9,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "weather_012",
+      "category": "weather",
+      "trigger": [
+        "rain",
+        "flood",
+        "weather"
+      ],
+      "text": "Đừng lao nhanh qua vũng nước.",
+      "priority": 9,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "weather_013",
+      "category": "weather",
+      "trigger": [
+        "rain",
+        "weather"
+      ],
+      "text": "Mưa lớn: giảm tốc rõ rệt.",
+      "priority": 7,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "weather_014",
+      "category": "weather",
+      "trigger": [
+        "fog",
+        "weather"
+      ],
+      "text": "Sương mù: dùng đèn gần.",
+      "priority": 8,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "weather_015",
+      "category": "weather",
+      "trigger": [
+        "wind",
+        "weather"
+      ],
+      "text": "Gió mạnh: cẩn thận trên cầu.",
+      "priority": 7,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "weather_016",
+      "category": "weather",
+      "trigger": [
+        "storm",
+        "rain",
+        "weather"
+      ],
+      "text": "Dông sét: tránh đoạn trống.",
+      "priority": 9,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "weather_017",
+      "category": "weather",
+      "trigger": [
+        "rain",
+        "weather"
+      ],
+      "text": "Mưa đầu mùa: đường rất trơn.",
+      "priority": 8,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "weather_018",
+      "category": "weather",
+      "trigger": [
+        "rain",
+        "fog",
+        "weather"
+      ],
+      "text": "Tầm nhìn kém: giảm tốc ngay.",
+      "priority": 8,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "weather_019",
+      "category": "weather",
+      "trigger": [
+        "rain",
+        "weather",
+        "speed"
+      ],
+      "text": "Đường đọng nước dễ trượt bánh.",
+      "priority": 8,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "weather_020",
+      "category": "weather",
+      "trigger": [
+        "default",
+        "weather"
+      ],
+      "text": "Nắng nóng: nghỉ ngắn thường xuyên.",
+      "priority": 5,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "night_021",
+      "category": "night",
+      "trigger": [
+        "night"
+      ],
+      "text": "Ban đêm: giảm tốc trước cua.",
+      "priority": 8,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "night_022",
+      "category": "night",
+      "trigger": [
+        "night"
+      ],
+      "text": "Bị chói đèn: nhìn mép phải.",
+      "priority": 8,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "night_023",
+      "category": "night",
+      "trigger": [
+        "night",
+        "mountain"
+      ],
+      "text": "Đêm vùng núi: coi chừng vật nuôi.",
+      "priority": 7,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "night_024",
+      "category": "night",
+      "trigger": [
+        "night",
+        "fatigue"
+      ],
+      "text": "Buồn ngủ: dừng nghỉ ngay.",
+      "priority": 10,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "night_025",
+      "category": "night",
+      "trigger": [
+        "night"
+      ],
+      "text": "Đi đêm: kiểm tra đèn xe.",
+      "priority": 7,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "night_026",
+      "category": "night",
+      "trigger": [
+        "night",
+        "default"
+      ],
+      "text": "Hạn chế vượt xe ban đêm.",
+      "priority": 8,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "night_027",
+      "category": "night",
+      "trigger": [
+        "night",
+        "motorbike"
+      ],
+      "text": "Xe máy đêm: dùng phản quang.",
+      "priority": 7,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "night_028",
+      "category": "night",
+      "trigger": [
+        "night",
+        "fatigue"
+      ],
+      "text": "Mệt ban đêm: nghỉ mười phút.",
+      "priority": 8,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "night_029",
+      "category": "night",
+      "trigger": [
+        "night",
+        "mountain"
+      ],
+      "text": "Đường tối: tránh chạy nhanh.",
+      "priority": 7,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "night_030",
+      "category": "night",
+      "trigger": [
+        "night",
+        "rain"
+      ],
+      "text": "Mưa đêm: tăng khoảng cách.",
+      "priority": 9,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "mountain_031",
+      "category": "mountain",
+      "trigger": [
+        "mountain",
+        "slope"
+      ],
+      "text": "Đường đèo: không lấn làn.",
+      "priority": 9,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "mountain_032",
+      "category": "mountain",
+      "trigger": [
+        "mountain",
+        "slope",
+        "car"
+      ],
+      "text": "Ô tô xuống đèo: dùng số thấp.",
+      "priority": 9,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "mountain_033",
+      "category": "mountain",
+      "trigger": [
+        "mountain",
+        "slope",
+        "motorbike"
+      ],
+      "text": "Xe máy xuống dốc: phanh đều.",
+      "priority": 8,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "mountain_034",
+      "category": "mountain",
+      "trigger": [
+        "landslide",
+        "mountain"
+      ],
+      "text": "Sau mưa: coi chừng đá rơi.",
+      "priority": 9,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "mountain_035",
+      "category": "mountain",
+      "trigger": [
+        "mountain",
+        "slope"
+      ],
+      "text": "Cua đèo: đi chậm trước.",
+      "priority": 8,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "mountain_036",
+      "category": "mountain",
+      "trigger": [
+        "mountain",
+        "slope"
+      ],
+      "text": "Cát sỏi cua: tránh phanh gấp.",
+      "priority": 8,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "mountain_037",
+      "category": "mountain",
+      "trigger": [
+        "mountain",
+        "slope",
+        "car"
+      ],
+      "text": "Mùi khét phanh: dừng an toàn.",
+      "priority": 9,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "mountain_038",
+      "category": "mountain",
+      "trigger": [
+        "mountain",
+        "fog"
+      ],
+      "text": "Đèo sương mù: đi thật chậm.",
+      "priority": 9,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "mountain_039",
+      "category": "mountain",
+      "trigger": [
+        "mountain",
+        "rain"
+      ],
+      "text": "Mưa trên đèo: ưu tiên an toàn.",
+      "priority": 9,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "mountain_040",
+      "category": "mountain",
+      "trigger": [
+        "mountain"
+      ],
+      "text": "Không vượt ở cua khuất.",
+      "priority": 9,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "flood_041",
+      "category": "flood",
+      "trigger": [
+        "flood",
+        "rain",
+        "weather"
+      ],
+      "text": "Không vào vùng ngập sâu.",
+      "priority": 10,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "flood_042",
+      "category": "flood",
+      "trigger": [
+        "flood",
+        "rain"
+      ],
+      "text": "Nước xiết có thể cuốn xe.",
+      "priority": 10,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "flood_043",
+      "category": "flood",
+      "trigger": [
+        "flood",
+        "car"
+      ],
+      "text": "Ô tô chết máy: đừng đề lại.",
+      "priority": 9,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "flood_044",
+      "category": "flood",
+      "trigger": [
+        "flood",
+        "motorbike"
+      ],
+      "text": "Xe máy ngập: nên quay đầu.",
+      "priority": 9,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "flood_045",
+      "category": "flood",
+      "trigger": [
+        "flood",
+        "rain"
+      ],
+      "text": "Nước ngập che ổ gà.",
+      "priority": 10,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "flood_046",
+      "category": "flood",
+      "trigger": [
+        "flood",
+        "rain"
+      ],
+      "text": "Vùng ngập: chờ hoặc đổi tuyến.",
+      "priority": 9,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "flood_047",
+      "category": "flood",
+      "trigger": [
+        "flood",
+        "rain"
+      ],
+      "text": "Mưa lớn: tránh gần suối.",
+      "priority": 8,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "flood_048",
+      "category": "flood",
+      "trigger": [
+        "flood",
+        "disaster"
+      ],
+      "text": "Lũ: ưu tiên đường cao ráo.",
+      "priority": 9,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "flood_049",
+      "category": "flood",
+      "trigger": [
+        "flood",
+        "weather"
+      ],
+      "text": "Sau ngập: đường vẫn trơn.",
+      "priority": 8,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "flood_050",
+      "category": "flood",
+      "trigger": [
+        "flood"
+      ],
+      "text": "Xe khác quay đầu: hãy cân nhắc.",
+      "priority": 8,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "speed_051",
+      "category": "speed",
+      "trigger": [
+        "speed",
+        "high_speed"
+      ],
+      "text": "Tốc độ cao, lỗi nhỏ nguy hiểm.",
+      "priority": 9,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "speed_052",
+      "category": "speed",
+      "trigger": [
+        "speed",
+        "default"
+      ],
+      "text": "Qua trường học: giảm tốc.",
+      "priority": 7,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "speed_053",
+      "category": "speed",
+      "trigger": [
+        "speed",
+        "default"
+      ],
+      "text": "Nhanh vài phút không đáng rủi ro.",
+      "priority": 8,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "speed_054",
+      "category": "speed",
+      "trigger": [
+        "speed",
+        "mountain"
+      ],
+      "text": "Giảm tốc trước khi vào cua.",
+      "priority": 8,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "speed_055",
+      "category": "speed",
+      "trigger": [
+        "speed",
+        "rain"
+      ],
+      "text": "Mưa: chạy chậm hơn rõ rệt.",
+      "priority": 8,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "speed_056",
+      "category": "speed",
+      "trigger": [
+        "speed",
+        "motorbike"
+      ],
+      "text": "Xe máy: tránh ổ gà nhanh.",
+      "priority": 8,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "speed_057",
+      "category": "speed",
+      "trigger": [
+        "speed",
+        "slope"
+      ],
+      "text": "Xuống dốc nhanh dễ nóng phanh.",
+      "priority": 8,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "speed_058",
+      "category": "speed",
+      "trigger": [
+        "speed",
+        "default"
+      ],
+      "text": "Chỉ vượt khi thật sự thoáng.",
+      "priority": 8,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "speed_059",
+      "category": "speed",
+      "trigger": [
+        "speed",
+        "fog",
+        "night"
+      ],
+      "text": "Chạy trong tầm nhìn dừng được.",
+      "priority": 9,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "speed_060",
+      "category": "speed",
+      "trigger": [
+        "speed",
+        "default"
+      ],
+      "text": "Đi đều ga, ít phanh gấp.",
+      "priority": 7,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "fatigue_061",
+      "category": "fatigue",
+      "trigger": [
+        "fatigue",
+        "default"
+      ],
+      "text": "Đường dài: nghỉ ngắn định kỳ.",
+      "priority": 7,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "fatigue_062",
+      "category": "fatigue",
+      "trigger": [
+        "fatigue",
+        "night"
+      ],
+      "text": "Buồn ngủ: không cố lái.",
+      "priority": 8,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "fatigue_063",
+      "category": "fatigue",
+      "trigger": [
+        "fatigue",
+        "default"
+      ],
+      "text": "Uống nước trước khi quá mệt.",
+      "priority": 8,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "fatigue_064",
+      "category": "fatigue",
+      "trigger": [
+        "default"
+      ],
+      "text": "Không đọc tin nhắn khi lái.",
+      "priority": 8,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "fatigue_065",
+      "category": "fatigue",
+      "trigger": [
+        "fatigue",
+        "night"
+      ],
+      "text": "Nhạc lớn không thay thế nghỉ ngơi.",
+      "priority": 8,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "fatigue_066",
+      "category": "fatigue",
+      "trigger": [
+        "fatigue",
+        "default"
+      ],
+      "text": "Ăn quá no dễ buồn ngủ.",
+      "priority": 8,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "fatigue_067",
+      "category": "fatigue",
+      "trigger": [
+        "fatigue",
+        "night"
+      ],
+      "text": "Mắt cay: dừng nghỉ.",
+      "priority": 7,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "fatigue_068",
+      "category": "fatigue",
+      "trigger": [
+        "default"
+      ],
+      "text": "Chọn điểm nghỉ trước hành trình.",
+      "priority": 7,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "fatigue_069",
+      "category": "fatigue",
+      "trigger": [
+        "car",
+        "fatigue"
+      ],
+      "text": "Có tài xế phụ: đổi người.",
+      "priority": 7,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "fatigue_070",
+      "category": "fatigue",
+      "trigger": [
+        "fatigue"
+      ],
+      "text": "Nghỉ xe ở nơi sáng rộng.",
+      "priority": 8,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "community_071",
+      "category": "community",
+      "trigger": [
+        "default"
+      ],
+      "text": "Thấy nguy hiểm: báo cáo sớm.",
+      "priority": 7,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "community_072",
+      "category": "community",
+      "trigger": [
+        "default"
+      ],
+      "text": "Báo cáo rõ vị trí, mức độ.",
+      "priority": 8,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "community_073",
+      "category": "community",
+      "trigger": [
+        "default"
+      ],
+      "text": "Chỉ chụp ảnh khi đã dừng.",
+      "priority": 8,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "community_074",
+      "category": "community",
+      "trigger": [
+        "default"
+      ],
+      "text": "Kiểm tra thời gian cảnh báo.",
+      "priority": 6,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "community_075",
+      "category": "community",
+      "trigger": [
+        "disaster",
+        "flood"
+      ],
+      "text": "Thiên tai: chia sẻ vị trí chính xác.",
+      "priority": 8,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "eco_076",
+      "category": "eco",
+      "trigger": [
+        "default"
+      ],
+      "text": "Đi đều ga giúp tiết kiệm nhiên liệu.",
+      "priority": 8,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "eco_077",
+      "category": "eco",
+      "trigger": [
+        "car",
+        "motorbike"
+      ],
+      "text": "Lốp non làm xe hao nhiên liệu.",
+      "priority": 8,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "eco_078",
+      "category": "eco",
+      "trigger": [
+        "traffic"
+      ],
+      "text": "Chờ lâu: tắt máy nếu an toàn.",
+      "priority": 9,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "eco_079",
+      "category": "eco",
+      "trigger": [
+        "default"
+      ],
+      "text": "Tuyến ngắn chưa chắc tiết kiệm.",
+      "priority": 8,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "eco_080",
+      "category": "eco",
+      "trigger": [
+        "flood",
+        "rain"
+      ],
+      "text": "Tránh ngập giúp giảm lãng phí.",
+      "priority": 7,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "eco_081",
+      "category": "eco",
+      "trigger": [
+        "speed"
+      ],
+      "text": "Chạy quá nhanh hao nhiên liệu.",
+      "priority": 7,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "eco_082",
+      "category": "eco",
+      "trigger": [
+        "car",
+        "motorbike"
+      ],
+      "text": "Chở quá nặng phanh kém hơn.",
+      "priority": 8,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "eco_083",
+      "category": "eco",
+      "trigger": [
+        "car",
+        "motorbike"
+      ],
+      "text": "Bảo dưỡng xe giúp an toàn hơn.",
+      "priority": 8,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "eco_084",
+      "category": "eco",
+      "trigger": [
+        "default"
+      ],
+      "text": "Đi chung xe giảm phát thải.",
+      "priority": 7,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "eco_085",
+      "category": "eco",
+      "trigger": [
+        "risk",
+        "default"
+      ],
+      "text": "Tuyến an toàn thường hiệu quả hơn.",
+      "priority": 8,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "sos_086",
+      "category": "sos",
+      "trigger": [
+        "default"
+      ],
+      "text": "SOS: gửi vị trí trước.",
+      "priority": 5,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "sos_087",
+      "category": "sos",
+      "trigger": [
+        "default"
+      ],
+      "text": "Lưu sẵn số người thân.",
+      "priority": 6,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "sos_088",
+      "category": "sos",
+      "trigger": [
+        "default"
+      ],
+      "text": "Kiểm tra pin trước chuyến dài.",
+      "priority": 7,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "sos_089",
+      "category": "sos",
+      "trigger": [
+        "mountain",
+        "default"
+      ],
+      "text": "Vùng đèo núi dễ mất sóng.",
+      "priority": 8,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "sos_090",
+      "category": "sos",
+      "trigger": [
+        "default"
+      ],
+      "text": "Sự cố: rời làn chạy.",
+      "priority": 6,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "sos_091",
+      "category": "sos",
+      "trigger": [
+        "car"
+      ],
+      "text": "Ô tô hỏng: bật đèn cảnh báo.",
+      "priority": 8,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "sos_092",
+      "category": "sos",
+      "trigger": [
+        "motorbike"
+      ],
+      "text": "Xe máy hỏng: dắt sát lề.",
+      "priority": 8,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "sos_093",
+      "category": "sos",
+      "trigger": [
+        "default"
+      ],
+      "text": "Người bị thương: gọi 115.",
+      "priority": 7,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "sos_094",
+      "category": "sos",
+      "trigger": [
+        "disaster",
+        "flood",
+        "landslide"
+      ],
+      "text": "Thiên tai: không quay lại vùng nguy hiểm.",
+      "priority": 9,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "sos_095",
+      "category": "sos",
+      "trigger": [
+        "default"
+      ],
+      "text": "Gọi hỗ trợ: nói ngắn gọn.",
+      "priority": 7,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "general_096",
+      "category": "general",
+      "trigger": [
+        "default"
+      ],
+      "text": "Nhìn gương trước khi chuyển làn.",
+      "priority": 7,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "general_097",
+      "category": "general",
+      "trigger": [
+        "default"
+      ],
+      "text": "Xi nhan sớm trước khi rẽ.",
+      "priority": 7,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "general_098",
+      "category": "general",
+      "trigger": [
+        "default"
+      ],
+      "text": "Qua giao lộ: quan sát hai bên.",
+      "priority": 8,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "general_099",
+      "category": "general",
+      "trigger": [
+        "default"
+      ],
+      "text": "Gần trường học: giảm tốc.",
+      "priority": 7,
+      "active": true,
+      "language": "vi"
+    },
+    {
+      "id": "general_100",
+      "category": "general",
+      "trigger": [
+        "default"
+      ],
+      "text": "Luôn chừa phương án tránh lỗi.",
+      "priority": 7,
+      "active": true,
+      "language": "vi"
+    }
+  ]
+}

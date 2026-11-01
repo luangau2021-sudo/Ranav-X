@@ -1,0 +1,1490 @@
+[2026-06-29 23:32:39] [WARNING] [api.ai_engine] openai chưa được cài — AI Engine sẽ dùng template cứng
+[2026-06-29 23:32:39] [INFO] [core.routing] Router (OSRM + adaptive VN waypoint guard + VN time factor) khởi động
+[2026-06-29 23:32:39] [INFO] [core.risk_engine] RiskEngine: 73 hazard zones (builtin=19, json=4, csv=50) · landslide realtime=ON
+[2026-06-29 23:32:39] [INFO] [core.human_aware] HumanAwareRouter khởi động
+[2026-06-29 23:32:39] [INFO] [features.sos] SOSHandler khởi động
+[2026-06-29 23:32:39] [INFO] [features.crowdsource] CrowdsourceEngine: 0 báo cáo đang hoạt động
+[2026-06-29 23:32:39] [INFO] [api.weather_api] WeatherAPI khởi động · OpenWeather=OFF, dùng fallback
+[2026-06-29 23:32:39] [INFO] [api.maps_api] MapsAPI khởi động: Goong=ON, Geoapify=ON, Google=OFF, user_alias=0
+[2026-06-29 23:32:39] [INFO] [api.ai_engine] AIEngine khởi động
+[2026-06-29 23:32:39] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-29 23:32:39] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-29 23:32:45] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-29 23:32:45] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-29 23:32:46] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-29 23:32:46] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-29 23:32:46] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-29 23:32:46] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-29 23:34:06] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-29 23:34:06] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-29 23:34:08] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-29 23:34:08] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-29 23:34:08] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-29 23:34:08] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-29 23:35:51] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-29 23:35:51] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-29 23:35:52] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-29 23:35:52] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-29 23:35:52] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-29 23:35:52] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 09:49:30] [WARNING] [api.ai_engine] openai chưa được cài — AI Engine sẽ dùng template cứng
+[2026-06-30 09:49:30] [INFO] [core.routing] Router (OSRM + adaptive VN waypoint guard + VN time factor) khởi động
+[2026-06-30 09:49:30] [INFO] [core.risk_engine] RiskEngine: 73 hazard zones (builtin=19, json=4, csv=50) · landslide realtime=ON
+[2026-06-30 09:49:30] [INFO] [core.human_aware] HumanAwareRouter khởi động
+[2026-06-30 09:49:30] [INFO] [features.sos] SOSHandler khởi động
+[2026-06-30 09:49:30] [INFO] [features.crowdsource] CrowdsourceEngine: 0 báo cáo đang hoạt động
+[2026-06-30 09:49:30] [INFO] [api.weather_api] WeatherAPI khởi động · OpenWeather=OFF, dùng fallback
+[2026-06-30 09:49:30] [INFO] [api.maps_api] MapsAPI khởi động: Goong=ON, Geoapify=ON, Google=OFF, user_alias=0
+[2026-06-30 09:49:30] [INFO] [api.ai_engine] AIEngine khởi động
+[2026-06-30 09:49:30] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 09:49:30] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 09:52:26] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 09:52:26] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 09:52:27] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 09:52:27] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 10:11:42] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 10:11:42] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 10:11:43] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 10:11:43] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 10:33:37] [WARNING] [api.ai_engine] openai chưa được cài — AI Engine sẽ dùng template cứng
+[2026-06-30 10:33:37] [INFO] [core.routing] Router (OSRM + adaptive VN waypoint guard + VN time factor) khởi động
+[2026-06-30 10:33:37] [INFO] [core.risk_engine] RiskEngine: 73 hazard zones (builtin=19, json=4, csv=50) · landslide realtime=ON
+[2026-06-30 10:33:37] [INFO] [core.human_aware] HumanAwareRouter khởi động
+[2026-06-30 10:33:37] [INFO] [features.sos] SOSHandler khởi động
+[2026-06-30 10:33:37] [INFO] [features.crowdsource] CrowdsourceEngine: 0 báo cáo đang hoạt động
+[2026-06-30 10:33:37] [INFO] [api.weather_api] WeatherAPI khởi động · OpenWeather=OFF, dùng fallback
+[2026-06-30 10:33:37] [INFO] [api.maps_api] MapsAPI khởi động: Goong=ON, Geoapify=ON, Google=OFF, user_alias=0
+[2026-06-30 10:33:37] [INFO] [api.ai_engine] AIEngine khởi động
+[2026-06-30 10:33:37] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 10:33:37] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 10:33:42] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 10:33:42] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 10:33:44] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 10:33:44] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 10:33:44] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 10:33:44] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 10:33:48] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 10:33:48] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 10:33:52] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 10:33:52] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 10:33:52] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 10:33:52] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 10:40:08] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 10:40:08] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 10:40:08] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 10:40:08] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 10:40:09] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 10:40:09] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 10:54:02] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 10:54:02] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 10:54:16] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 10:54:16] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 10:55:46] [WARNING] [api.ai_engine] openai chưa được cài — AI Engine sẽ dùng template cứng
+[2026-06-30 10:55:46] [INFO] [core.routing] Router (OSRM + adaptive VN waypoint guard + VN time factor) khởi động
+[2026-06-30 10:55:46] [INFO] [core.risk_engine] RiskEngine: 73 hazard zones (builtin=19, json=4, csv=50) · landslide realtime=ON
+[2026-06-30 10:55:46] [INFO] [core.human_aware] HumanAwareRouter khởi động
+[2026-06-30 10:55:46] [INFO] [features.sos] SOSHandler khởi động
+[2026-06-30 10:55:46] [INFO] [features.crowdsource] CrowdsourceEngine: 0 báo cáo đang hoạt động
+[2026-06-30 10:55:46] [INFO] [api.weather_api] WeatherAPI khởi động · OpenWeather=OFF, dùng fallback
+[2026-06-30 10:55:46] [INFO] [api.maps_api] MapsAPI khởi động: Goong=ON, Geoapify=ON, Google=OFF, user_alias=0
+[2026-06-30 10:55:46] [INFO] [api.ai_engine] AIEngine khởi động
+[2026-06-30 10:55:46] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 10:55:46] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 10:56:09] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 10:56:09] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 10:56:11] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 10:56:11] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 10:56:11] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 10:56:11] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 10:56:25] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 10:56:25] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 10:56:27] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 10:56:27] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 10:56:27] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 10:56:27] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 11:02:30] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 11:02:30] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 11:02:39] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 11:02:39] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 11:07:43] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 11:07:43] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 11:12:43] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 11:12:43] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 11:13:02] [WARNING] [api.ai_engine] openai chưa được cài — AI Engine sẽ dùng template cứng
+[2026-06-30 11:13:02] [INFO] [core.routing] Router (OSRM + adaptive VN waypoint guard + VN time factor) khởi động
+[2026-06-30 11:13:02] [INFO] [core.risk_engine] RiskEngine: 73 hazard zones (builtin=19, json=4, csv=50) · landslide realtime=ON
+[2026-06-30 11:13:02] [INFO] [core.human_aware] HumanAwareRouter khởi động
+[2026-06-30 11:13:02] [INFO] [features.sos] SOSHandler khởi động
+[2026-06-30 11:13:02] [INFO] [features.crowdsource] CrowdsourceEngine: 0 báo cáo đang hoạt động
+[2026-06-30 11:13:02] [INFO] [api.weather_api] WeatherAPI khởi động · OpenWeather=OFF, dùng fallback
+[2026-06-30 11:13:02] [INFO] [api.maps_api] MapsAPI khởi động: Goong=ON, Geoapify=ON, Google=OFF, user_alias=0
+[2026-06-30 11:13:02] [INFO] [api.ai_engine] AIEngine khởi động
+[2026-06-30 11:13:02] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 11:13:02] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 11:13:07] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 11:13:07] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 11:13:08] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 11:13:08] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 11:13:09] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 11:13:09] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 11:13:11] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 11:13:11] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 11:13:13] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 11:13:13] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 11:13:13] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 11:13:13] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 12:39:41] [ERROR] [api.weather_api] Open-Meteo forecast lỗi: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+[2026-06-30 13:01:17] [ERROR] [api.weather_api] Open-Meteo forecast lỗi: HTTPSConnectionPool(host='api.open-meteo.com', port=443): Max retries exceeded with url: /v1/forecast?latitude=20.657221&longitude=105.936756&hourly=temperature_2m%2Crelative_humidity_2m%2Cprecipitation%2Cweather_code%2Ccloud_cover&timezone=auto&forecast_days=3 (Caused by NameResolutionError("HTTPSConnection(host='api.open-meteo.com', port=443): Failed to resolve 'api.open-meteo.com' ([Errno 11001] getaddrinfo failed)"))
+[2026-06-30 13:01:17] [ERROR] [api.weather_api] Open-Meteo forecast lỗi: HTTPSConnectionPool(host='api.open-meteo.com', port=443): Max retries exceeded with url: /v1/forecast?latitude=20.657221&longitude=105.936756&hourly=temperature_2m%2Crelative_humidity_2m%2Cprecipitation%2Cweather_code%2Ccloud_cover&timezone=auto&forecast_days=3 (Caused by NameResolutionError("HTTPSConnection(host='api.open-meteo.com', port=443): Failed to resolve 'api.open-meteo.com' ([Errno 11001] getaddrinfo failed)"))
+[2026-06-30 13:01:17] [ERROR] [api.weather_api] Open-Meteo forecast lỗi: HTTPSConnectionPool(host='api.open-meteo.com', port=443): Max retries exceeded with url: /v1/forecast?latitude=20.657221&longitude=105.936756&hourly=temperature_2m%2Crelative_humidity_2m%2Cprecipitation%2Cweather_code%2Ccloud_cover&timezone=auto&forecast_days=3 (Caused by NameResolutionError("HTTPSConnection(host='api.open-meteo.com', port=443): Failed to resolve 'api.open-meteo.com' ([Errno 11001] getaddrinfo failed)"))
+[2026-06-30 13:01:23] [ERROR] [api.weather_api] Open-Meteo forecast lỗi: HTTPSConnectionPool(host='api.open-meteo.com', port=443): Max retries exceeded with url: /v1/forecast?latitude=21.027798&longitude=105.834196&hourly=temperature_2m%2Crelative_humidity_2m%2Cprecipitation%2Cweather_code%2Ccloud_cover&timezone=auto&forecast_days=3 (Caused by NameResolutionError("HTTPSConnection(host='api.open-meteo.com', port=443): Failed to resolve 'api.open-meteo.com' ([Errno 11001] getaddrinfo failed)"))
+[2026-06-30 13:01:24] [ERROR] [api.weather_api] Open-Meteo forecast lỗi: HTTPSConnectionPool(host='api.open-meteo.com', port=443): Max retries exceeded with url: /v1/forecast?latitude=21.027798&longitude=105.834196&hourly=temperature_2m%2Crelative_humidity_2m%2Cprecipitation%2Cweather_code%2Ccloud_cover&timezone=auto&forecast_days=3 (Caused by NameResolutionError("HTTPSConnection(host='api.open-meteo.com', port=443): Failed to resolve 'api.open-meteo.com' ([Errno 11001] getaddrinfo failed)"))
+[2026-06-30 13:01:24] [ERROR] [api.weather_api] Open-Meteo forecast lỗi: HTTPSConnectionPool(host='api.open-meteo.com', port=443): Max retries exceeded with url: /v1/forecast?latitude=21.027798&longitude=105.834196&hourly=temperature_2m%2Crelative_humidity_2m%2Cprecipitation%2Cweather_code%2Ccloud_cover&timezone=auto&forecast_days=3 (Caused by NameResolutionError("HTTPSConnection(host='api.open-meteo.com', port=443): Failed to resolve 'api.open-meteo.com' ([Errno 11001] getaddrinfo failed)"))
+[2026-06-30 13:02:04] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 13:02:04] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 13:02:53] [WARNING] [api.ai_engine] openai chưa được cài — AI Engine sẽ dùng template cứng
+[2026-06-30 13:02:53] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 13:02:53] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 13:05:32] [WARNING] [api.ai_engine] openai chưa được cài — AI Engine sẽ dùng template cứng
+[2026-06-30 13:05:33] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 13:05:33] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 13:05:34] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 13:05:34] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 13:05:35] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 13:05:35] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 13:05:35] [WARNING] [api.ai_engine] openai chưa được cài — AI Engine sẽ dùng template cứng
+[2026-06-30 13:05:35] [INFO] [core.routing] Router (OSRM + adaptive VN waypoint guard + VN time factor) khởi động
+[2026-06-30 13:05:35] [INFO] [core.risk_engine] RiskEngine: 73 hazard zones (builtin=19, json=4, csv=50) · landslide realtime=ON
+[2026-06-30 13:05:35] [INFO] [core.human_aware] HumanAwareRouter khởi động
+[2026-06-30 13:05:35] [INFO] [features.sos] SOSHandler khởi động
+[2026-06-30 13:05:35] [INFO] [features.crowdsource] CrowdsourceEngine: 0 báo cáo đang hoạt động
+[2026-06-30 13:05:35] [INFO] [api.weather_api] WeatherAPI khởi động · OpenWeather=OFF, dùng fallback
+[2026-06-30 13:05:35] [INFO] [api.maps_api] MapsAPI khởi động: Goong=ON, Geoapify=ON, Google=OFF, user_alias=0
+[2026-06-30 13:05:35] [INFO] [api.ai_engine] AIEngine khởi động
+[2026-06-30 13:05:35] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 13:05:35] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 13:05:35] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 13:05:35] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 13:05:41] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 13:05:41] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 13:05:42] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 13:05:42] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 13:05:47] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 13:05:47] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 13:05:51] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 13:05:51] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 13:05:51] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 13:05:51] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 13:09:14] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 13:09:14] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 13:09:15] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 13:09:15] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 13:09:16] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 13:09:16] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 13:11:07] [WARNING] [api.ai_engine] openai chưa được cài — AI Engine sẽ dùng template cứng
+[2026-06-30 13:11:07] [INFO] [core.routing] Router (OSRM + adaptive VN waypoint guard + VN time factor) khởi động
+[2026-06-30 13:11:07] [INFO] [core.risk_engine] RiskEngine: 73 hazard zones (builtin=19, json=4, csv=50) · landslide realtime=ON
+[2026-06-30 13:11:07] [INFO] [core.human_aware] HumanAwareRouter khởi động
+[2026-06-30 13:11:07] [INFO] [features.sos] SOSHandler khởi động
+[2026-06-30 13:11:07] [INFO] [features.crowdsource] CrowdsourceEngine: 0 báo cáo đang hoạt động
+[2026-06-30 13:11:07] [INFO] [api.weather_api] WeatherAPI khởi động · OpenWeather=OFF, dùng fallback
+[2026-06-30 13:11:07] [INFO] [api.maps_api] MapsAPI khởi động: Goong=ON, Geoapify=ON, Google=OFF, user_alias=0
+[2026-06-30 13:11:07] [INFO] [api.ai_engine] AIEngine khởi động
+[2026-06-30 13:11:07] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 13:11:07] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 13:11:20] [WARNING] [features.poi] Overpass chưa trả cây xăng: HTTPSConnectionPool(host='overpass.kumi.systems', port=443): Read timed out. (read timeout=10)
+[2026-06-30 13:11:51] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 13:11:51] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 13:11:52] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 13:11:52] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 13:11:53] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 13:11:53] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 13:11:56] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 13:11:56] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 13:12:01] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 13:12:01] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 13:12:01] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 13:12:01] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 13:21:23] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 13:21:23] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 13:22:03] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 13:22:03] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 13:22:04] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 13:22:04] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 13:22:12] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 13:22:12] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 13:22:21] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 13:22:21] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 13:22:58] [WARNING] [api.ai_engine] openai chưa được cài — AI Engine sẽ dùng template cứng
+[2026-06-30 13:22:58] [INFO] [core.routing] Router (OSRM + adaptive VN waypoint guard + VN time factor) khởi động
+[2026-06-30 13:22:58] [INFO] [core.risk_engine] RiskEngine: 73 hazard zones (builtin=19, json=4, csv=50) · landslide realtime=ON
+[2026-06-30 13:22:58] [INFO] [core.human_aware] HumanAwareRouter khởi động
+[2026-06-30 13:22:58] [INFO] [features.sos] SOSHandler khởi động
+[2026-06-30 13:22:58] [INFO] [features.crowdsource] CrowdsourceEngine: 0 báo cáo đang hoạt động
+[2026-06-30 13:22:58] [INFO] [api.weather_api] WeatherAPI khởi động · OpenWeather=OFF, dùng fallback
+[2026-06-30 13:22:58] [INFO] [api.maps_api] MapsAPI khởi động: Goong=ON, Geoapify=ON, Google=OFF, user_alias=0
+[2026-06-30 13:22:58] [INFO] [api.ai_engine] AIEngine khởi động
+[2026-06-30 13:22:58] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 13:22:58] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 13:23:02] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 13:23:02] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 13:23:03] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 13:23:03] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 13:23:04] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 13:23:04] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 13:23:07] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 13:23:07] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 13:23:09] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 13:23:09] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 13:23:09] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 13:23:09] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 13:27:07] [WARNING] [api.ai_engine] openai chưa được cài — AI Engine sẽ dùng template cứng
+[2026-06-30 13:27:08] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 13:27:08] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 13:32:07] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 13:32:07] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 13:36:05] [WARNING] [api.ai_engine] openai chưa được cài — AI Engine sẽ dùng template cứng
+[2026-06-30 13:36:05] [INFO] [core.routing] Router (OSRM + adaptive VN waypoint guard + VN time factor) khởi động
+[2026-06-30 13:36:05] [INFO] [core.risk_engine] RiskEngine: 73 hazard zones (builtin=19, json=4, csv=50) · landslide realtime=ON
+[2026-06-30 13:36:05] [INFO] [core.human_aware] HumanAwareRouter khởi động
+[2026-06-30 13:36:05] [INFO] [features.sos] SOSHandler khởi động
+[2026-06-30 13:36:05] [INFO] [features.crowdsource] CrowdsourceEngine: 0 báo cáo đang hoạt động
+[2026-06-30 13:36:05] [INFO] [api.weather_api] WeatherAPI khởi động · OpenWeather=OFF, dùng fallback
+[2026-06-30 13:36:05] [INFO] [api.maps_api] MapsAPI khởi động: Goong=ON, Geoapify=ON, Google=OFF, user_alias=0
+[2026-06-30 13:36:05] [INFO] [api.ai_engine] AIEngine khởi động
+[2026-06-30 13:36:05] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 13:36:05] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 13:36:19] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 13:36:19] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 13:36:20] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 13:36:20] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 13:36:20] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 13:36:20] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 13:36:35] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 13:36:35] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 13:36:38] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 13:36:38] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 13:36:38] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 13:36:38] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 13:38:48] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 13:38:48] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 13:38:49] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 13:38:49] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 13:38:49] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 13:38:49] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 13:43:22] [WARNING] [api.ai_engine] openai chưa được cài — AI Engine sẽ dùng template cứng
+[2026-06-30 13:43:22] [INFO] [core.routing] Router (OSRM + adaptive VN waypoint guard + VN time factor) khởi động
+[2026-06-30 13:43:22] [INFO] [core.risk_engine] RiskEngine: 73 hazard zones (builtin=19, json=4, csv=50) · landslide realtime=ON
+[2026-06-30 13:43:22] [INFO] [core.human_aware] HumanAwareRouter khởi động
+[2026-06-30 13:43:22] [INFO] [features.sos] SOSHandler khởi động
+[2026-06-30 13:43:22] [INFO] [features.crowdsource] CrowdsourceEngine: 0 báo cáo đang hoạt động
+[2026-06-30 13:43:22] [INFO] [api.weather_api] WeatherAPI khởi động · OpenWeather=OFF, dùng fallback
+[2026-06-30 13:43:22] [INFO] [api.maps_api] MapsAPI khởi động: Goong=ON, Geoapify=ON, Google=OFF, user_alias=0
+[2026-06-30 13:43:22] [INFO] [api.ai_engine] AIEngine khởi động
+[2026-06-30 13:43:22] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 13:43:22] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 13:43:26] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 13:43:26] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 13:43:27] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 13:43:27] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 13:43:27] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 13:43:27] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 13:43:30] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 13:43:30] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 13:43:34] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 13:43:34] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 13:43:34] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 13:43:34] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 13:48:35] [WARNING] [api.ai_engine] openai chưa được cài — AI Engine sẽ dùng template cứng
+[2026-06-30 13:48:35] [INFO] [core.routing] Router (OSRM + adaptive VN waypoint guard + VN time factor) khởi động
+[2026-06-30 13:48:35] [INFO] [core.risk_engine] RiskEngine: 73 hazard zones (builtin=19, json=4, csv=50) · landslide realtime=ON
+[2026-06-30 13:48:35] [INFO] [core.human_aware] HumanAwareRouter khởi động
+[2026-06-30 13:48:35] [INFO] [features.sos] SOSHandler khởi động
+[2026-06-30 13:48:35] [INFO] [features.crowdsource] CrowdsourceEngine: 0 báo cáo đang hoạt động
+[2026-06-30 13:48:35] [INFO] [api.weather_api] WeatherAPI khởi động · OpenWeather=OFF, dùng fallback
+[2026-06-30 13:48:35] [INFO] [api.maps_api] MapsAPI khởi động: Goong=ON, Geoapify=ON, Google=OFF, user_alias=0
+[2026-06-30 13:48:35] [INFO] [api.ai_engine] AIEngine khởi động
+[2026-06-30 13:48:35] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 13:48:35] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 13:48:39] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 13:48:39] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 13:48:40] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 13:48:40] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 13:48:40] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 13:48:40] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 13:48:43] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 13:48:43] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 13:48:49] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 13:48:49] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 13:48:49] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 13:48:49] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 14:04:09] [WARNING] [api.ai_engine] openai chưa được cài — AI Engine sẽ dùng template cứng
+[2026-06-30 14:04:09] [INFO] [core.routing] Router (OSRM + adaptive VN waypoint guard + VN time factor) khởi động
+[2026-06-30 14:04:09] [INFO] [core.risk_engine] RiskEngine: 73 hazard zones (builtin=19, json=4, csv=50) · landslide realtime=ON
+[2026-06-30 14:04:09] [INFO] [core.human_aware] HumanAwareRouter khởi động
+[2026-06-30 14:04:09] [INFO] [features.sos] SOSHandler khởi động
+[2026-06-30 14:04:09] [INFO] [features.crowdsource] CrowdsourceEngine: 0 báo cáo đang hoạt động
+[2026-06-30 14:04:09] [INFO] [api.weather_api] WeatherAPI khởi động · OpenWeather=OFF, dùng fallback
+[2026-06-30 14:04:09] [INFO] [api.maps_api] MapsAPI khởi động: Goong=ON, Geoapify=ON, Google=OFF, user_alias=0
+[2026-06-30 14:04:09] [INFO] [api.ai_engine] AIEngine khởi động
+[2026-06-30 14:04:09] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 14:04:09] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 14:04:41] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 14:04:41] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 14:04:42] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 14:04:42] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 14:04:42] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 14:04:42] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 14:04:46] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 14:04:46] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 14:04:48] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 14:04:48] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 14:04:48] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 14:04:48] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 14:38:13] [WARNING] [api.ai_engine] openai chưa được cài — AI Engine sẽ dùng template cứng
+[2026-06-30 14:38:13] [INFO] [core.routing] Router (OSRM + adaptive VN waypoint guard + VN time factor) khởi động
+[2026-06-30 14:38:13] [INFO] [core.risk_engine] RiskEngine: 73 hazard zones (builtin=19, json=4, csv=50) · landslide realtime=ON
+[2026-06-30 14:38:13] [INFO] [core.human_aware] HumanAwareRouter khởi động
+[2026-06-30 14:38:13] [INFO] [features.sos] SOSHandler khởi động
+[2026-06-30 14:38:13] [INFO] [features.crowdsource] CrowdsourceEngine: 0 báo cáo đang hoạt động
+[2026-06-30 14:38:13] [INFO] [api.weather_api] WeatherAPI khởi động · OpenWeather=OFF, dùng fallback
+[2026-06-30 14:38:13] [INFO] [api.maps_api] MapsAPI khởi động: Goong=ON, Geoapify=ON, Google=OFF, user_alias=0
+[2026-06-30 14:38:13] [INFO] [api.ai_engine] AIEngine khởi động
+[2026-06-30 14:38:13] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 14:38:13] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 14:39:42] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 14:39:42] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 14:39:43] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 14:39:43] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 14:39:45] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 14:39:45] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 14:39:50] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 14:39:50] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 14:39:52] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 14:39:52] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 14:39:53] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 14:39:53] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 14:43:30] [WARNING] [api.ai_engine] openai chưa được cài — AI Engine sẽ dùng template cứng
+[2026-06-30 14:43:30] [INFO] [core.routing] Router (OSRM + adaptive VN waypoint guard + VN time factor) khởi động
+[2026-06-30 14:43:30] [INFO] [core.risk_engine] RiskEngine: 73 hazard zones (builtin=19, json=4, csv=50) · landslide realtime=ON
+[2026-06-30 14:43:30] [INFO] [core.human_aware] HumanAwareRouter khởi động
+[2026-06-30 14:43:30] [INFO] [features.sos] SOSHandler khởi động
+[2026-06-30 14:43:30] [INFO] [features.crowdsource] CrowdsourceEngine: 0 báo cáo đang hoạt động
+[2026-06-30 14:43:30] [INFO] [api.weather_api] WeatherAPI khởi động · OpenWeather=OFF, dùng fallback
+[2026-06-30 14:43:30] [INFO] [api.maps_api] MapsAPI khởi động: Goong=ON, Geoapify=ON, Google=OFF, user_alias=0
+[2026-06-30 14:43:30] [INFO] [api.ai_engine] AIEngine khởi động
+[2026-06-30 14:43:30] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 14:43:30] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 14:43:33] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 14:43:33] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 14:43:34] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 14:43:34] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 14:43:34] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 14:43:34] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 14:43:38] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 14:43:38] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 14:43:40] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 14:43:40] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 14:43:40] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 14:43:40] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 15:55:29] [WARNING] [api.ai_engine] openai chưa được cài — AI Engine sẽ dùng template cứng
+[2026-06-30 15:55:29] [INFO] [core.routing] Router (OSRM + adaptive VN waypoint guard + VN time factor) khởi động
+[2026-06-30 15:55:29] [INFO] [core.risk_engine] RiskEngine: 73 hazard zones (builtin=19, json=4, csv=50) · landslide realtime=ON
+[2026-06-30 15:55:29] [INFO] [core.human_aware] HumanAwareRouter khởi động
+[2026-06-30 15:55:29] [INFO] [features.sos] SOSHandler khởi động
+[2026-06-30 15:55:29] [INFO] [features.crowdsource] CrowdsourceEngine: 0 báo cáo đang hoạt động
+[2026-06-30 15:55:29] [INFO] [api.weather_api] WeatherAPI khởi động · OpenWeather=OFF, dùng fallback
+[2026-06-30 15:55:29] [INFO] [api.maps_api] MapsAPI khởi động: Goong=ON, Geoapify=ON, Google=OFF, user_alias=0
+[2026-06-30 15:55:29] [INFO] [api.ai_engine] AIEngine khởi động
+[2026-06-30 15:55:29] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 15:55:29] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 15:57:51] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 15:57:51] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 15:57:52] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 15:57:52] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 15:57:52] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 15:57:52] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 15:58:10] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 15:58:10] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 15:58:14] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 15:58:14] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 15:58:14] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 15:58:14] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 21:31:49] [WARNING] [api.ai_engine] openai chưa được cài — AI Engine sẽ dùng template cứng
+[2026-06-30 21:31:50] [INFO] [core.routing] Router (OSRM + adaptive VN waypoint guard + VN time factor) khởi động
+[2026-06-30 21:31:50] [INFO] [core.risk_engine] RiskEngine: 73 hazard zones (builtin=19, json=4, csv=50) · landslide realtime=ON
+[2026-06-30 21:31:50] [INFO] [core.human_aware] HumanAwareRouter khởi động
+[2026-06-30 21:31:50] [INFO] [features.sos] SOSHandler khởi động
+[2026-06-30 21:31:50] [INFO] [features.crowdsource] CrowdsourceEngine: 0 báo cáo đang hoạt động
+[2026-06-30 21:31:50] [INFO] [api.weather_api] WeatherAPI khởi động · OpenWeather=OFF, dùng fallback
+[2026-06-30 21:31:50] [INFO] [api.maps_api] MapsAPI khởi động: Goong=ON, Geoapify=ON, Google=OFF, user_alias=0
+[2026-06-30 21:31:50] [INFO] [api.ai_engine] AIEngine khởi động
+[2026-06-30 21:31:50] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 21:31:50] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 21:35:58] [WARNING] [api.ai_engine] openai chưa được cài — AI Engine sẽ dùng template cứng
+[2026-06-30 21:35:59] [INFO] [core.routing] Router (OSRM + adaptive VN waypoint guard + VN time factor) khởi động
+[2026-06-30 21:35:59] [INFO] [core.risk_engine] RiskEngine: 73 hazard zones (builtin=19, json=4, csv=50) · landslide realtime=ON
+[2026-06-30 21:35:59] [INFO] [core.human_aware] HumanAwareRouter khởi động
+[2026-06-30 21:35:59] [INFO] [features.sos] SOSHandler khởi động
+[2026-06-30 21:35:59] [INFO] [features.crowdsource] CrowdsourceEngine: 0 báo cáo đang hoạt động
+[2026-06-30 21:35:59] [INFO] [api.weather_api] WeatherAPI khởi động · OpenWeather=OFF, dùng fallback
+[2026-06-30 21:35:59] [INFO] [api.maps_api] MapsAPI khởi động: Goong=ON, Geoapify=ON, Google=OFF, user_alias=0
+[2026-06-30 21:35:59] [INFO] [api.ai_engine] AIEngine khởi động
+[2026-06-30 21:35:59] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 21:35:59] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 21:36:24] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 21:36:24] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 21:36:26] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 21:36:26] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 21:36:26] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 21:36:26] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 21:36:29] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 21:36:29] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 21:36:31] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 21:36:31] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-06-30 21:36:31] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-06-30 21:36:31] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-01 20:38:39] [WARNING] [api.ai_engine] openai chưa được cài — AI Engine sẽ dùng template cứng
+[2026-07-01 20:38:39] [INFO] [core.routing] Router (OSRM + adaptive VN waypoint guard + VN time factor) khởi động
+[2026-07-01 20:38:39] [INFO] [core.risk_engine] RiskEngine: 73 hazard zones (builtin=19, json=4, csv=50) · landslide realtime=ON
+[2026-07-01 20:38:39] [INFO] [core.human_aware] HumanAwareRouter khởi động
+[2026-07-01 20:38:39] [INFO] [features.sos] SOSHandler khởi động
+[2026-07-01 20:38:39] [INFO] [features.crowdsource] CrowdsourceEngine: 0 báo cáo đang hoạt động
+[2026-07-01 20:38:39] [INFO] [api.weather_api] WeatherAPI khởi động · OpenWeather=OFF, dùng fallback
+[2026-07-01 20:38:39] [INFO] [api.maps_api] MapsAPI khởi động: Goong=ON, Geoapify=ON, Google=OFF, user_alias=0
+[2026-07-01 20:38:39] [INFO] [api.ai_engine] AIEngine khởi động
+[2026-07-01 20:38:39] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-01 20:38:39] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-01 20:38:43] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-01 20:38:43] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-01 20:38:45] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-01 20:38:45] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-01 20:38:45] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-01 20:38:45] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-01 20:38:50] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-01 20:38:50] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-01 20:38:52] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-01 20:38:52] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-01 20:38:52] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-01 20:38:52] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-01 20:43:58] [WARNING] [api.ai_engine] openai chưa được cài — AI Engine sẽ dùng template cứng
+[2026-07-01 20:43:58] [INFO] [core.routing] Router (OSRM + adaptive VN waypoint guard + VN time factor) khởi động
+[2026-07-01 20:43:58] [INFO] [core.risk_engine] RiskEngine: 73 hazard zones (builtin=19, json=4, csv=50) · landslide realtime=ON
+[2026-07-01 20:43:58] [INFO] [core.human_aware] HumanAwareRouter khởi động
+[2026-07-01 20:43:58] [INFO] [features.sos] SOSHandler khởi động
+[2026-07-01 20:43:58] [INFO] [features.crowdsource] CrowdsourceEngine: 0 báo cáo đang hoạt động
+[2026-07-01 20:43:58] [INFO] [api.weather_api] WeatherAPI khởi động · OpenWeather=OFF, dùng fallback
+[2026-07-01 20:43:58] [INFO] [api.maps_api] MapsAPI khởi động: Goong=ON, Geoapify=ON, Google=OFF, user_alias=0
+[2026-07-01 20:43:58] [INFO] [api.ai_engine] AIEngine khởi động
+[2026-07-01 20:43:58] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-01 20:43:58] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-01 20:44:02] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-01 20:44:02] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-01 20:44:03] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-01 20:44:03] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-01 20:44:03] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-01 20:44:03] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-01 20:44:08] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-01 20:44:08] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-01 20:44:11] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-01 20:44:11] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-01 20:44:11] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-01 20:44:11] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-01 20:52:19] [WARNING] [api.ai_engine] openai chưa được cài — AI Engine sẽ dùng template cứng
+[2026-07-01 20:52:19] [INFO] [core.routing] Router (OSRM + adaptive VN waypoint guard + VN time factor) khởi động
+[2026-07-01 20:52:19] [INFO] [core.risk_engine] RiskEngine: 73 hazard zones (builtin=19, json=4, csv=50) · landslide realtime=ON
+[2026-07-01 20:52:19] [INFO] [core.human_aware] HumanAwareRouter khởi động
+[2026-07-01 20:52:19] [INFO] [features.sos] SOSHandler khởi động
+[2026-07-01 20:52:19] [INFO] [features.crowdsource] CrowdsourceEngine: 0 báo cáo đang hoạt động
+[2026-07-01 20:52:19] [INFO] [api.weather_api] WeatherAPI khởi động · OpenWeather=OFF, dùng fallback
+[2026-07-01 20:52:19] [INFO] [api.maps_api] MapsAPI khởi động: Goong=ON, Geoapify=ON, Google=OFF, user_alias=0
+[2026-07-01 20:52:19] [INFO] [api.ai_engine] AIEngine khởi động
+[2026-07-01 20:52:19] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-01 20:52:19] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-01 20:52:24] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-01 20:52:24] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-01 20:52:26] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-01 20:52:26] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-01 20:52:26] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-01 20:52:26] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-01 20:52:29] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-01 20:52:29] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-01 20:52:31] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-01 20:52:31] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-01 20:52:31] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-01 20:52:31] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-01 20:54:38] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-01 20:54:38] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-01 20:54:39] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-01 20:54:39] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-01 20:54:39] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-01 20:54:39] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-01 20:56:57] [WARNING] [api.ai_engine] openai chưa được cài — AI Engine sẽ dùng template cứng
+[2026-07-01 20:56:57] [INFO] [core.routing] Router (OSRM + adaptive VN waypoint guard + VN time factor) khởi động
+[2026-07-01 20:56:57] [INFO] [core.risk_engine] RiskEngine: 73 hazard zones (builtin=19, json=4, csv=50) · landslide realtime=ON
+[2026-07-01 20:56:57] [INFO] [core.human_aware] HumanAwareRouter khởi động
+[2026-07-01 20:56:57] [INFO] [features.sos] SOSHandler khởi động
+[2026-07-01 20:56:57] [INFO] [features.crowdsource] CrowdsourceEngine: 0 báo cáo đang hoạt động
+[2026-07-01 20:56:57] [INFO] [api.weather_api] WeatherAPI khởi động · OpenWeather=OFF, dùng fallback
+[2026-07-01 20:56:57] [INFO] [api.maps_api] MapsAPI khởi động: Goong=ON, Geoapify=ON, Google=OFF, user_alias=0
+[2026-07-01 20:56:57] [INFO] [api.ai_engine] AIEngine khởi động
+[2026-07-01 20:56:57] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-01 20:56:57] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-01 20:57:12] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-01 20:57:12] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-01 20:57:13] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-01 20:57:13] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-01 20:57:18] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-01 20:57:18] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-01 20:57:20] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-01 20:57:20] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-01 20:57:20] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-01 20:57:20] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-01 20:58:53] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-01 20:58:53] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-01 20:58:53] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-01 20:58:53] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-01 20:58:53] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-01 20:58:53] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-01 21:08:02] [WARNING] [api.ai_engine] openai chưa được cài — AI Engine sẽ dùng template cứng
+[2026-07-01 21:08:02] [INFO] [core.routing] Router (OSRM + adaptive VN waypoint guard + VN time factor) khởi động
+[2026-07-01 21:08:02] [INFO] [core.risk_engine] RiskEngine: 73 hazard zones (builtin=19, json=4, csv=50) · landslide realtime=ON
+[2026-07-01 21:08:02] [INFO] [core.human_aware] HumanAwareRouter khởi động
+[2026-07-01 21:08:02] [INFO] [features.sos] SOSHandler khởi động
+[2026-07-01 21:08:02] [INFO] [features.crowdsource] CrowdsourceEngine: 0 báo cáo đang hoạt động
+[2026-07-01 21:08:02] [INFO] [api.weather_api] WeatherAPI khởi động · OpenWeather=OFF, dùng fallback
+[2026-07-01 21:08:02] [INFO] [api.maps_api] MapsAPI khởi động: Goong=ON, Geoapify=ON, Google=OFF, user_alias=0
+[2026-07-01 21:08:02] [INFO] [api.ai_engine] AIEngine khởi động
+[2026-07-01 21:08:02] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-01 21:08:02] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-01 21:08:12] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-01 21:08:12] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-01 21:08:14] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-01 21:08:14] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-01 21:08:14] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-01 21:08:14] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-01 21:08:27] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-01 21:08:27] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-01 21:08:31] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-01 21:08:31] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-01 21:08:31] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-01 21:08:31] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-01 21:16:41] [WARNING] [api.ai_engine] openai chưa được cài — AI Engine sẽ dùng template cứng
+[2026-07-01 21:16:41] [INFO] [core.routing] Router (OSRM + adaptive VN waypoint guard + VN time factor) khởi động
+[2026-07-01 21:16:41] [INFO] [core.risk_engine] RiskEngine: 73 hazard zones (builtin=19, json=4, csv=50) · landslide realtime=ON
+[2026-07-01 21:16:41] [INFO] [core.human_aware] HumanAwareRouter khởi động
+[2026-07-01 21:16:41] [INFO] [features.sos] SOSHandler khởi động
+[2026-07-01 21:16:41] [INFO] [features.crowdsource] CrowdsourceEngine: 0 báo cáo đang hoạt động
+[2026-07-01 21:16:41] [INFO] [api.weather_api] WeatherAPI khởi động · OpenWeather=OFF, dùng fallback
+[2026-07-01 21:16:41] [INFO] [api.maps_api] MapsAPI khởi động: Goong=ON, Geoapify=ON, Google=OFF, user_alias=0
+[2026-07-01 21:16:41] [INFO] [api.ai_engine] AIEngine khởi động
+[2026-07-01 21:16:41] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-01 21:16:41] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-01 21:16:44] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-01 21:16:44] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-01 21:16:45] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-01 21:16:45] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-01 21:16:53] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-01 21:16:53] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-01 21:16:58] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-01 21:16:58] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-01 21:16:58] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-01 21:16:58] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-01 21:48:47] [WARNING] [api.ai_engine] openai chưa được cài — AI Engine sẽ dùng template cứng
+[2026-07-01 21:48:47] [INFO] [core.routing] Router (OSRM + adaptive VN waypoint guard + VN time factor) khởi động
+[2026-07-01 21:48:47] [INFO] [core.risk_engine] RiskEngine: 73 hazard zones (builtin=19, json=4, csv=50) · landslide realtime=ON
+[2026-07-01 21:48:47] [INFO] [core.human_aware] HumanAwareRouter khởi động
+[2026-07-01 21:48:47] [INFO] [features.sos] SOSHandler khởi động
+[2026-07-01 21:48:47] [INFO] [features.crowdsource] CrowdsourceEngine: 0 báo cáo đang hoạt động
+[2026-07-01 21:48:47] [INFO] [api.weather_api] WeatherAPI khởi động · OpenWeather=OFF, dùng fallback
+[2026-07-01 21:48:47] [INFO] [api.maps_api] MapsAPI khởi động: Goong=ON, Geoapify=ON, Google=OFF, user_alias=0
+[2026-07-01 21:48:47] [INFO] [api.ai_engine] AIEngine khởi động
+[2026-07-01 21:48:47] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-01 21:48:47] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-01 21:48:55] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-01 21:48:55] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-01 21:48:57] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-01 21:48:57] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-01 21:50:06] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-01 21:50:06] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-01 21:50:08] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-01 21:50:08] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-01 21:50:08] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-01 21:50:08] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-01 22:00:31] [WARNING] [api.ai_engine] openai chưa được cài — AI Engine sẽ dùng template cứng
+[2026-07-01 22:00:31] [INFO] [core.routing] Router (OSRM + adaptive VN waypoint guard + VN time factor) khởi động
+[2026-07-01 22:00:31] [INFO] [core.risk_engine] RiskEngine: 73 hazard zones (builtin=19, json=4, csv=50) · landslide realtime=ON
+[2026-07-01 22:00:31] [INFO] [core.human_aware] HumanAwareRouter khởi động
+[2026-07-01 22:00:31] [INFO] [features.sos] SOSHandler khởi động
+[2026-07-01 22:00:31] [INFO] [features.crowdsource] CrowdsourceEngine: 0 báo cáo đang hoạt động
+[2026-07-01 22:00:31] [INFO] [api.weather_api] WeatherAPI khởi động · OpenWeather=OFF, dùng fallback
+[2026-07-01 22:00:31] [INFO] [api.maps_api] MapsAPI khởi động: Goong=ON, Geoapify=ON, Google=OFF, user_alias=0
+[2026-07-01 22:00:31] [INFO] [api.ai_engine] AIEngine khởi động
+[2026-07-01 22:00:31] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-01 22:00:31] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-01 22:01:54] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-01 22:01:54] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-01 22:01:56] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-01 22:01:56] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-01 22:01:58] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-01 22:01:58] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-01 22:02:04] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-01 22:02:04] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-01 22:02:04] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-01 22:02:04] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-01 22:09:14] [WARNING] [api.ai_engine] openai chưa được cài — AI Engine sẽ dùng template cứng
+[2026-07-01 22:09:14] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-01 22:09:14] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 09:45:14] [WARNING] [api.ai_engine] openai chưa được cài — AI Engine sẽ dùng template cứng
+[2026-07-02 09:45:15] [INFO] [core.routing] Router (OSRM + adaptive VN waypoint guard + VN time factor) khởi động
+[2026-07-02 09:45:15] [INFO] [core.risk_engine] RiskEngine: 73 hazard zones (builtin=19, json=4, csv=50) · landslide realtime=ON
+[2026-07-02 09:45:15] [INFO] [core.human_aware] HumanAwareRouter khởi động
+[2026-07-02 09:45:15] [INFO] [features.sos] SOSHandler khởi động
+[2026-07-02 09:45:15] [INFO] [features.crowdsource] CrowdsourceEngine: 0 báo cáo đang hoạt động
+[2026-07-02 09:45:15] [INFO] [api.weather_api] WeatherAPI khởi động · OpenWeather=OFF, dùng fallback
+[2026-07-02 09:45:15] [INFO] [api.maps_api] MapsAPI khởi động: Goong=ON, Geoapify=ON, Google=OFF, user_alias=0
+[2026-07-02 09:45:15] [INFO] [api.ai_engine] AIEngine khởi động
+[2026-07-02 09:45:15] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 09:45:15] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 09:45:22] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 09:45:22] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 09:45:24] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 09:45:24] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 09:45:24] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 09:45:24] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 09:45:28] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 09:45:28] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 09:45:30] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 09:45:30] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 09:45:31] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 09:45:31] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 09:46:15] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 09:46:15] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 09:46:59] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 09:46:59] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 09:46:59] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 09:46:59] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 09:52:20] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 09:52:20] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 09:52:27] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 09:52:27] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 09:52:48] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 09:52:48] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 09:53:09] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 09:53:09] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 09:56:51] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 09:56:51] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 10:00:27] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 10:00:27] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 10:04:57] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 10:04:57] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 10:06:13] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 10:06:13] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 10:06:22] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 10:06:22] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 10:11:42] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 10:11:42] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 10:16:54] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 10:16:54] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 10:16:57] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 10:16:57] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 10:17:09] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 10:17:09] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 10:17:13] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 10:17:13] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 10:17:14] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 10:17:14] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 10:17:15] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 10:17:15] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 10:19:41] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 10:19:41] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 10:19:41] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 10:19:41] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 10:19:42] [ERROR] [core.routing] get_alternative_routes lỗi: 400 Client Error: Bad Request for url: http://router.project-osrm.org/route/v1/driving/107.53219861400004,11.38631583800003;108.4583,11.9404?overview=full&geometries=geojson&steps=true&alternatives=4
+[2026-07-02 10:19:42] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 10:19:42] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 10:19:43] [ERROR] [core.routing] get_alternative_routes lỗi: 400 Client Error: Bad Request for url: http://router.project-osrm.org/route/v1/driving/107.53219861400004,11.38631583800003;108.4583,11.9404?overview=full&geometries=geojson&steps=true&alternatives=4
+[2026-07-02 10:48:03] [WARNING] [api.ai_engine] openai chưa được cài — AI Engine sẽ dùng template cứng
+[2026-07-02 10:48:03] [INFO] [core.routing] Router (OSRM + adaptive VN waypoint guard + VN time factor) khởi động
+[2026-07-02 10:48:03] [INFO] [core.risk_engine] RiskEngine: 73 hazard zones (builtin=19, json=4, csv=50) · landslide realtime=ON
+[2026-07-02 10:48:03] [INFO] [core.human_aware] HumanAwareRouter khởi động
+[2026-07-02 10:48:03] [INFO] [features.sos] SOSHandler khởi động
+[2026-07-02 10:48:03] [INFO] [features.crowdsource] CrowdsourceEngine: 0 báo cáo đang hoạt động
+[2026-07-02 10:48:03] [INFO] [api.weather_api] WeatherAPI khởi động · OpenWeather=OFF, dùng fallback
+[2026-07-02 10:48:03] [INFO] [api.maps_api] MapsAPI khởi động: Goong=ON, Geoapify=ON, Google=OFF, user_alias=0
+[2026-07-02 10:48:03] [INFO] [api.ai_engine] AIEngine khởi động
+[2026-07-02 10:48:03] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 10:48:03] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 10:48:05] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 10:48:05] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 10:48:29] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 10:48:29] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 10:48:31] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 10:48:31] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 10:48:31] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 10:48:31] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 10:48:35] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 10:48:35] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 10:48:36] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 10:48:36] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 10:48:37] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 10:48:37] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 10:48:38] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 10:48:38] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 10:48:40] [ERROR] [core.routing] get_alternative_routes lỗi: 400 Client Error: Bad Request for url: http://router.project-osrm.org/route/v1/driving/107.646,11.424;108.4583,11.9404?overview=full&geometries=geojson&steps=true&alternatives=4
+[2026-07-02 10:50:11] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 10:50:11] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 10:50:15] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 10:50:15] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 10:50:16] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 10:50:16] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 10:50:45] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 10:50:45] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 10:50:52] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 10:50:52] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 10:50:57] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 10:50:57] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 10:54:14] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 10:54:14] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 10:54:16] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 10:54:16] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 10:54:23] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 10:54:23] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 10:54:24] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 10:54:24] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 10:59:29] [WARNING] [api.ai_engine] openai chưa được cài — AI Engine sẽ dùng template cứng
+[2026-07-02 10:59:29] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 10:59:29] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 11:55:48] [WARNING] [api.ai_engine] openai chưa được cài — AI Engine sẽ dùng template cứng
+[2026-07-02 11:55:48] [INFO] [core.routing] Router (OSRM + adaptive VN waypoint guard + VN time factor) khởi động
+[2026-07-02 11:55:48] [INFO] [core.risk_engine] RiskEngine: 73 hazard zones (builtin=19, json=4, csv=50) · landslide realtime=ON
+[2026-07-02 11:55:48] [INFO] [core.human_aware] HumanAwareRouter khởi động
+[2026-07-02 11:55:48] [INFO] [features.sos] SOSHandler khởi động
+[2026-07-02 11:55:48] [INFO] [features.crowdsource] CrowdsourceEngine: 0 báo cáo đang hoạt động
+[2026-07-02 11:55:48] [INFO] [api.weather_api] WeatherAPI khởi động · OpenWeather=OFF, dùng fallback
+[2026-07-02 11:55:48] [INFO] [api.maps_api] MapsAPI khởi động: Goong=ON, Geoapify=ON, Google=OFF, user_alias=0
+[2026-07-02 11:55:48] [INFO] [api.ai_engine] AIEngine khởi động
+[2026-07-02 11:55:48] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 11:55:48] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 11:55:52] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 11:55:52] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 11:55:53] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 11:55:53] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 11:55:54] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 11:55:54] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 11:55:57] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 11:55:57] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 11:56:00] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 11:56:00] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 11:56:01] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 11:56:01] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 11:56:01] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 11:56:01] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 11:56:03] [ERROR] [core.routing] get_alternative_routes lỗi: 400 Client Error: Bad Request for url: http://router.project-osrm.org/route/v1/driving/107.646,11.424;108.4583,11.9404?overview=full&geometries=geojson&steps=true&alternatives=4
+[2026-07-02 11:58:06] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 11:58:06] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 11:58:07] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 11:58:07] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 11:58:13] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 11:58:13] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 11:58:18] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 11:58:18] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 12:00:38] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 12:00:38] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 12:00:42] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 12:00:42] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 12:00:44] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 12:00:44] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 12:00:44] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 12:00:44] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 12:00:52] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 12:00:52] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 12:00:53] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 12:00:53] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 12:06:03] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 12:06:03] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 12:09:56] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 12:09:56] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 12:10:02] [ERROR] [api.weather_api] Open-Meteo forecast lỗi: HTTPSConnectionPool(host='api.open-meteo.com', port=443): Read timed out. (read timeout=8)
+[2026-07-02 20:19:25] [WARNING] [api.ai_engine] openai chưa được cài — AI Engine sẽ dùng template cứng
+[2026-07-02 20:19:25] [INFO] [core.routing] Router (OSRM + adaptive VN waypoint guard + VN time factor) khởi động
+[2026-07-02 20:19:25] [INFO] [core.risk_engine] RiskEngine: 73 hazard zones (builtin=19, json=4, csv=50) · landslide realtime=ON
+[2026-07-02 20:19:25] [INFO] [core.human_aware] HumanAwareRouter khởi động
+[2026-07-02 20:19:25] [INFO] [features.sos] SOSHandler khởi động
+[2026-07-02 20:19:25] [INFO] [features.crowdsource] CrowdsourceEngine: 0 báo cáo đang hoạt động
+[2026-07-02 20:19:25] [INFO] [api.weather_api] WeatherAPI khởi động · OpenWeather=OFF, dùng fallback
+[2026-07-02 20:19:25] [INFO] [api.maps_api] MapsAPI khởi động: Goong=ON, Geoapify=ON, Google=OFF, user_alias=0
+[2026-07-02 20:19:25] [INFO] [api.ai_engine] AIEngine khởi động
+[2026-07-02 20:19:25] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 20:19:25] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 20:19:31] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 20:19:31] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 20:19:33] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 20:19:33] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 20:19:33] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 20:19:33] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 20:19:35] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 20:19:35] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 20:20:49] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 20:20:49] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 20:20:51] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 20:20:51] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 20:20:51] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 20:20:51] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 20:20:51] [INFO] [features.memory_trail] Bắt đầu hành trình: trip_1b704ed6
+[2026-07-02 20:21:37] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 20:21:37] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 20:21:41] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 20:21:41] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 20:23:44] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 20:23:44] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 20:23:59] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 20:23:59] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 20:24:02] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 20:24:02] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 20:24:04] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 20:24:04] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 20:24:08] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 20:24:08] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 20:24:10] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 20:24:10] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 20:24:13] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 20:24:13] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 20:24:15] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 20:24:15] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 20:26:43] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 20:26:43] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 20:26:43] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 20:26:43] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 20:36:32] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 20:36:32] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 20:44:51] [WARNING] [api.ai_engine] openai chưa được cài — AI Engine sẽ dùng template cứng
+[2026-07-02 20:44:51] [INFO] [core.routing] Router (OSRM + adaptive VN waypoint guard + VN time factor) khởi động
+[2026-07-02 20:44:51] [INFO] [core.risk_engine] RiskEngine: 73 hazard zones (builtin=19, json=4, csv=50) · landslide realtime=ON
+[2026-07-02 20:44:51] [INFO] [core.human_aware] HumanAwareRouter khởi động
+[2026-07-02 20:44:51] [INFO] [features.sos] SOSHandler khởi động
+[2026-07-02 20:44:51] [INFO] [features.crowdsource] CrowdsourceEngine: 0 báo cáo đang hoạt động
+[2026-07-02 20:44:51] [INFO] [api.weather_api] WeatherAPI khởi động · OpenWeather=OFF, dùng fallback
+[2026-07-02 20:44:51] [INFO] [api.maps_api] MapsAPI khởi động: Goong=ON, Geoapify=ON, Google=OFF, user_alias=0
+[2026-07-02 20:44:51] [INFO] [api.ai_engine] AIEngine khởi động
+[2026-07-02 20:44:51] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 20:44:51] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 20:45:09] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 20:45:09] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 20:45:15] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 20:45:15] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 20:45:20] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 20:45:20] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 20:45:22] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 20:45:22] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 20:45:23] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 20:45:23] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 20:45:23] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 20:45:23] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 20:45:23] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 20:45:23] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 20:45:43] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 20:45:43] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 20:45:44] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 20:45:44] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 20:45:51] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 20:45:51] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 20:45:52] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 20:45:52] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 20:45:53] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 20:45:53] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 20:45:54] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 20:45:54] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 20:45:55] [ERROR] [core.routing] get_alternative_routes lỗi: 400 Client Error: Bad Request for url: http://router.project-osrm.org/route/v1/driving/107.646,11.424;108.4583,11.9404?overview=full&geometries=geojson&steps=true&alternatives=4
+[2026-07-02 20:46:34] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 20:46:34] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 20:46:37] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 20:46:37] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 20:46:42] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 20:46:42] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 20:46:45] [INFO] [features.crowdsource] Báo cáo mới: accident tại (11.38631583800003, 107.53219861400004) — severity 3
+[2026-07-02 20:46:59] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 20:46:59] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 20:47:12] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 20:47:12] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 20:52:15] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 20:52:15] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 20:57:15] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 20:57:15] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 20:58:21] [WARNING] [api.ai_engine] openai chưa được cài — AI Engine sẽ dùng template cứng
+[2026-07-02 20:58:21] [INFO] [core.routing] Router (OSRM + adaptive VN waypoint guard + VN time factor) khởi động
+[2026-07-02 20:58:21] [INFO] [core.risk_engine] RiskEngine: 73 hazard zones (builtin=19, json=4, csv=50) · landslide realtime=ON
+[2026-07-02 20:58:21] [INFO] [core.human_aware] HumanAwareRouter khởi động
+[2026-07-02 20:58:21] [INFO] [features.sos] SOSHandler khởi động
+[2026-07-02 20:58:21] [INFO] [features.crowdsource] CrowdsourceEngine: 1 báo cáo đang hoạt động
+[2026-07-02 20:58:21] [INFO] [api.weather_api] WeatherAPI khởi động · OpenWeather=OFF, dùng fallback
+[2026-07-02 20:58:21] [INFO] [api.maps_api] MapsAPI khởi động: Goong=ON, Geoapify=ON, Google=OFF, user_alias=0
+[2026-07-02 20:58:21] [INFO] [api.ai_engine] AIEngine khởi động
+[2026-07-02 20:58:21] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 20:58:21] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 21:02:17] [WARNING] [api.ai_engine] openai chưa được cài — AI Engine sẽ dùng template cứng
+[2026-07-02 21:02:17] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 21:02:17] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 21:04:15] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 21:04:15] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 21:04:20] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 21:04:20] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 21:04:24] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 21:04:24] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 21:04:24] [INFO] [features.crowdsource] Báo cáo mới: accident tại (11.9404, 108.4583) — severity 3
+[2026-07-02 21:04:29] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 21:04:29] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 21:04:29] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 21:04:29] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 21:04:34] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 21:04:34] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 21:04:34] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 21:04:34] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 21:04:44] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 21:04:44] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 21:11:02] [WARNING] [api.ai_engine] openai chưa được cài — AI Engine sẽ dùng template cứng
+[2026-07-02 21:11:02] [INFO] [core.routing] Router (OSRM + adaptive VN waypoint guard + VN time factor) khởi động
+[2026-07-02 21:11:02] [INFO] [core.risk_engine] RiskEngine: 73 hazard zones (builtin=19, json=4, csv=50) · landslide realtime=ON
+[2026-07-02 21:11:02] [INFO] [core.human_aware] HumanAwareRouter khởi động
+[2026-07-02 21:11:02] [INFO] [features.sos] SOSHandler khởi động
+[2026-07-02 21:11:02] [INFO] [features.crowdsource] CrowdsourceEngine: 2 báo cáo đang hoạt động
+[2026-07-02 21:11:02] [INFO] [api.weather_api] WeatherAPI khởi động · OpenWeather=OFF, dùng fallback
+[2026-07-02 21:11:02] [INFO] [api.maps_api] MapsAPI khởi động: Goong=ON, Geoapify=ON, Google=OFF, user_alias=0
+[2026-07-02 21:11:02] [INFO] [api.ai_engine] AIEngine khởi động
+[2026-07-02 21:11:02] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 21:11:02] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 21:11:14] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 21:11:14] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 21:11:25] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 21:11:25] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 21:11:27] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 21:11:27] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 21:11:33] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 21:11:33] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 21:11:35] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 21:11:35] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 21:11:36] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 21:11:36] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 21:11:38] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 21:11:38] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 21:11:43] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 21:11:43] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 21:11:45] [ERROR] [core.routing] get_alternative_routes lỗi: 400 Client Error: Bad Request for url: http://router.project-osrm.org/route/v1/driving/107.53219861400004,11.38631583800003;108.4583,11.9404?overview=full&geometries=geojson&steps=true&alternatives=4
+[2026-07-02 21:14:06] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 21:14:06] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 21:14:07] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 21:14:07] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 21:14:08] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 21:14:08] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 21:14:11] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 21:14:11] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 21:14:43] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 21:14:43] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 21:19:08] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 21:19:08] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 21:24:08] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 21:24:08] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 21:41:47] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 21:41:47] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 21:46:46] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 21:46:46] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-02 21:51:46] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-02 21:51:46] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-03 10:28:41] [WARNING] [api.ai_engine] openai chưa được cài — AI Engine sẽ dùng template cứng
+[2026-07-03 10:28:41] [INFO] [core.routing] Router (OSRM + adaptive VN waypoint guard + VN time factor) khởi động
+[2026-07-03 10:28:41] [INFO] [core.risk_engine] RiskEngine: 73 hazard zones (builtin=19, json=4, csv=50) · landslide realtime=ON
+[2026-07-03 10:28:41] [INFO] [core.human_aware] HumanAwareRouter khởi động
+[2026-07-03 10:28:41] [INFO] [features.sos] SOSHandler khởi động
+[2026-07-03 10:28:41] [INFO] [features.crowdsource] Đã xóa 2 báo cáo hết hạn
+[2026-07-03 10:28:41] [INFO] [features.crowdsource] CrowdsourceEngine: 0 báo cáo đang hoạt động
+[2026-07-03 10:28:41] [INFO] [api.weather_api] WeatherAPI khởi động · OpenWeather=OFF, dùng fallback
+[2026-07-03 10:28:41] [INFO] [api.maps_api] MapsAPI khởi động: Goong=ON, Geoapify=ON, Google=OFF, user_alias=0
+[2026-07-03 10:28:41] [INFO] [api.ai_engine] AIEngine khởi động
+[2026-07-03 10:28:41] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-03 10:28:41] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-03 10:30:17] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-03 10:30:17] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-03 10:30:18] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-03 10:30:18] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-03 10:30:18] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-03 10:30:18] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-03 10:30:23] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-03 10:30:23] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-03 10:30:25] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-03 10:30:25] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-03 10:30:25] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-03 10:30:25] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-03 10:33:49] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-03 10:33:49] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-03 10:33:49] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-03 10:33:49] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-03 10:33:50] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-03 10:33:50] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-03 10:42:07] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-03 10:42:07] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-03 10:42:08] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-03 10:42:08] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-03 10:42:08] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-03 10:42:08] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-03 10:43:46] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-03 10:43:46] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-03 10:43:50] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-03 10:43:50] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-03 10:44:02] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-03 10:44:02] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-03 10:44:05] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-03 10:44:05] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-03 10:44:25] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-03 10:44:25] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-03 10:45:56] [WARNING] [api.ai_engine] openai chưa được cài — AI Engine sẽ dùng template cứng
+[2026-07-03 10:45:56] [INFO] [core.routing] Router (OSRM + adaptive VN waypoint guard + VN time factor) khởi động
+[2026-07-03 10:45:56] [INFO] [core.risk_engine] RiskEngine: 73 hazard zones (builtin=19, json=4, csv=50) · landslide realtime=ON
+[2026-07-03 10:45:56] [INFO] [core.human_aware] HumanAwareRouter khởi động
+[2026-07-03 10:45:56] [INFO] [features.sos] SOSHandler khởi động
+[2026-07-03 10:45:56] [INFO] [features.crowdsource] CrowdsourceEngine: 0 báo cáo đang hoạt động
+[2026-07-03 10:45:56] [INFO] [api.weather_api] WeatherAPI khởi động · OpenWeather=OFF, dùng fallback
+[2026-07-03 10:45:56] [INFO] [api.maps_api] MapsAPI khởi động: Goong=ON, Geoapify=ON, Google=OFF, user_alias=0
+[2026-07-03 10:45:56] [INFO] [api.ai_engine] AIEngine khởi động
+[2026-07-03 10:45:56] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-03 10:45:56] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-03 10:47:52] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-03 10:47:52] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-03 10:47:53] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-03 10:47:53] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-03 10:47:54] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-03 10:47:54] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-03 10:47:59] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-03 10:47:59] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-03 10:48:01] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-03 10:48:01] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-03 10:48:01] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-03 10:48:01] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-03 10:48:49] [WARNING] [api.ai_engine] openai chưa được cài — AI Engine sẽ dùng template cứng
+[2026-07-03 10:48:49] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-03 10:48:49] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-03 10:51:02] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-03 10:51:02] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-03 10:51:03] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-03 10:51:03] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-03 10:51:04] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-03 10:51:04] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-03 10:51:40] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-03 10:51:40] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-03 10:52:43] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-03 10:52:43] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-03 10:52:55] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-03 10:52:55] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-03 20:42:53] [WARNING] [api.ai_engine] openai chưa được cài — AI Engine sẽ dùng template cứng
+[2026-07-03 20:42:53] [INFO] [core.routing] Router (OSRM + adaptive VN waypoint guard + VN time factor) khởi động
+[2026-07-03 20:42:53] [INFO] [core.risk_engine] RiskEngine: 73 hazard zones (builtin=19, json=4, csv=50) · landslide realtime=ON
+[2026-07-03 20:42:53] [INFO] [core.human_aware] HumanAwareRouter khởi động
+[2026-07-03 20:42:53] [INFO] [features.sos] SOSHandler khởi động
+[2026-07-03 20:42:53] [INFO] [features.crowdsource] CrowdsourceEngine: 0 báo cáo đang hoạt động
+[2026-07-03 20:42:53] [INFO] [api.weather_api] WeatherAPI khởi động · OpenWeather=OFF, dùng fallback
+[2026-07-03 20:42:53] [INFO] [api.maps_api] MapsAPI khởi động: Goong=ON, Geoapify=ON, Google=OFF, user_alias=0
+[2026-07-03 20:42:53] [INFO] [api.ai_engine] AIEngine khởi động
+[2026-07-03 20:42:53] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-03 20:42:53] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-03 20:45:13] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-03 20:45:13] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-03 20:45:14] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-03 20:45:14] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-03 20:45:15] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-03 20:45:15] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-03 20:46:08] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-03 20:46:08] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-03 20:46:09] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-03 20:46:09] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-03 20:46:09] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-03 20:46:09] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-03 20:46:09] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-03 20:46:09] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-03 20:46:09] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-03 20:46:09] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-03 20:46:10] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-03 20:46:10] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-03 20:46:11] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-03 20:46:11] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-03 20:46:11] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-03 20:46:11] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-03 20:46:21] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-03 20:46:21] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-03 20:46:21] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-03 20:46:21] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-03 20:51:32] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-03 20:51:32] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-03 20:51:33] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-03 20:51:33] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-03 20:56:33] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-03 20:56:33] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-03 20:58:37] [WARNING] [api.ai_engine] openai chưa được cài — AI Engine sẽ dùng template cứng
+[2026-07-03 20:58:37] [INFO] [core.routing] Router (OSRM + adaptive VN waypoint guard + VN time factor) khởi động
+[2026-07-03 20:58:37] [INFO] [core.risk_engine] RiskEngine: 73 hazard zones (builtin=19, json=4, csv=50) · landslide realtime=ON
+[2026-07-03 20:58:37] [INFO] [core.human_aware] HumanAwareRouter khởi động
+[2026-07-03 20:58:37] [INFO] [features.sos] SOSHandler khởi động
+[2026-07-03 20:58:37] [INFO] [features.crowdsource] CrowdsourceEngine: 0 báo cáo đang hoạt động
+[2026-07-03 20:58:37] [INFO] [api.weather_api] WeatherAPI khởi động · OpenWeather=OFF, dùng fallback
+[2026-07-03 20:58:37] [INFO] [api.maps_api] MapsAPI khởi động: Goong=ON, Geoapify=ON, Google=OFF, user_alias=0
+[2026-07-03 20:58:37] [INFO] [api.ai_engine] AIEngine khởi động
+[2026-07-03 20:58:37] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-03 20:58:37] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-03 20:59:25] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-03 20:59:25] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-03 20:59:27] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-03 20:59:27] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-03 20:59:33] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-03 20:59:33] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-03 20:59:37] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-03 20:59:37] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-03 20:59:38] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-03 20:59:38] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-03 21:03:13] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-03 21:03:13] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-03 21:03:15] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-03 21:03:15] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-03 21:05:22] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-03 21:05:22] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-03 21:05:47] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-03 21:05:47] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-03 21:05:48] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-03 21:05:48] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-03 21:05:49] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-03 21:05:49] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-03 21:05:50] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-03 21:05:50] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-03 21:05:51] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-03 21:05:51] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-03 21:10:49] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-03 21:10:49] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-03 21:10:51] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-03 21:10:51] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-03 21:11:12] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-03 21:11:12] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-03 21:11:12] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-03 21:11:12] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-03 21:11:15] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-03 21:11:15] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-03 21:11:16] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-03 21:11:16] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-03 21:11:19] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-03 21:11:19] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-03 21:17:02] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-03 21:17:02] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-03 21:22:02] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-03 21:22:02] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-03 21:43:57] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-03 21:43:57] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-03 21:47:02] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-03 21:47:02] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-03 23:23:18] [WARNING] [api.ai_engine] openai chưa được cài — AI Engine sẽ dùng template cứng
+[2026-07-03 23:23:18] [INFO] [core.routing] Router (OSRM + adaptive VN waypoint guard + VN time factor) khởi động
+[2026-07-03 23:23:18] [INFO] [core.risk_engine] RiskEngine: 73 hazard zones (builtin=19, json=4, csv=50) · landslide realtime=ON
+[2026-07-03 23:23:18] [INFO] [core.human_aware] HumanAwareRouter khởi động
+[2026-07-03 23:23:18] [INFO] [features.sos] SOSHandler khởi động
+[2026-07-03 23:23:18] [INFO] [features.crowdsource] CrowdsourceEngine: 0 báo cáo đang hoạt động
+[2026-07-03 23:23:18] [INFO] [api.weather_api] WeatherAPI khởi động · OpenWeather=OFF, dùng fallback
+[2026-07-03 23:23:18] [INFO] [api.maps_api] MapsAPI khởi động: Goong=ON, Geoapify=ON, Google=OFF, user_alias=0
+[2026-07-03 23:23:18] [INFO] [api.ai_engine] AIEngine khởi động
+[2026-07-03 23:23:18] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-03 23:23:18] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-04 00:00:32] [WARNING] [api.ai_engine] openai chưa được cài — AI Engine sẽ dùng template cứng
+[2026-07-04 00:00:32] [INFO] [core.routing] Router (OSRM + adaptive VN waypoint guard + VN time factor) khởi động
+[2026-07-04 00:00:32] [INFO] [core.risk_engine] RiskEngine: 73 hazard zones (builtin=19, json=4, csv=50) · landslide realtime=ON
+[2026-07-04 00:00:32] [INFO] [core.human_aware] HumanAwareRouter khởi động
+[2026-07-04 00:00:32] [INFO] [features.sos] SOSHandler khởi động
+[2026-07-04 00:00:32] [INFO] [features.crowdsource] CrowdsourceEngine: 0 báo cáo đang hoạt động
+[2026-07-04 00:00:32] [INFO] [api.weather_api] WeatherAPI khởi động · OpenWeather=OFF, dùng fallback
+[2026-07-04 00:00:32] [INFO] [api.maps_api] MapsAPI khởi động: Goong=ON, Geoapify=ON, Google=OFF, user_alias=0
+[2026-07-04 00:00:32] [INFO] [api.ai_engine] AIEngine khởi động
+[2026-07-04 00:00:32] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-04 00:00:32] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-04 00:07:24] [WARNING] [api.ai_engine] openai chưa được cài — AI Engine sẽ dùng template cứng
+[2026-07-04 00:07:24] [INFO] [core.routing] Router (OSRM + adaptive VN waypoint guard + VN time factor) khởi động
+[2026-07-04 00:07:24] [INFO] [core.risk_engine] RiskEngine: 73 hazard zones (builtin=19, json=4, csv=50) · landslide realtime=ON
+[2026-07-04 00:07:24] [INFO] [core.human_aware] HumanAwareRouter khởi động
+[2026-07-04 00:07:24] [INFO] [features.sos] SOSHandler khởi động
+[2026-07-04 00:07:24] [INFO] [features.crowdsource] CrowdsourceEngine: 0 báo cáo đang hoạt động
+[2026-07-04 00:07:24] [INFO] [api.weather_api] WeatherAPI khởi động · OpenWeather=OFF, dùng fallback
+[2026-07-04 00:07:24] [INFO] [api.maps_api] MapsAPI khởi động: Goong=ON, Geoapify=ON, Google=OFF, user_alias=0
+[2026-07-04 00:07:24] [INFO] [api.ai_engine] AIEngine khởi động
+[2026-07-04 00:07:24] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-04 00:07:24] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-04 00:07:48] [WARNING] [api.ai_engine] openai chưa được cài — AI Engine sẽ dùng template cứng
+[2026-07-04 00:07:48] [INFO] [core.routing] Router (OSRM + adaptive VN waypoint guard + VN time factor) khởi động
+[2026-07-04 00:07:48] [INFO] [core.risk_engine] RiskEngine: 73 hazard zones (builtin=19, json=4, csv=50) · landslide realtime=ON
+[2026-07-04 00:07:48] [INFO] [core.human_aware] HumanAwareRouter khởi động
+[2026-07-04 00:07:48] [INFO] [features.sos] SOSHandler khởi động
+[2026-07-04 00:07:48] [INFO] [features.crowdsource] CrowdsourceEngine: 0 báo cáo đang hoạt động
+[2026-07-04 00:07:48] [INFO] [api.weather_api] WeatherAPI khởi động · OpenWeather=OFF, dùng fallback
+[2026-07-04 00:07:48] [INFO] [api.maps_api] MapsAPI khởi động: Goong=ON, Geoapify=ON, Google=OFF, user_alias=0
+[2026-07-04 00:07:48] [INFO] [api.ai_engine] AIEngine khởi động
+[2026-07-04 00:07:48] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-04 00:07:48] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-04 00:10:22] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-04 00:10:22] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-04 00:10:24] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-04 00:10:24] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-04 00:10:26] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-04 00:10:26] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-04 00:10:29] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-04 00:10:29] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-04 00:10:31] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-04 00:10:31] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-04 00:10:31] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-04 00:10:31] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-04 00:10:32] [ERROR] [core.routing] get_alternative_routes lỗi: 400 Client Error: Bad Request for url: http://router.project-osrm.org/route/v1/driving/107.646,11.424;108.4583,11.9404?overview=full&geometries=geojson&steps=true&alternatives=4
+[2026-07-04 00:14:04] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-04 00:14:04] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-04 00:16:27] [WARNING] [api.ai_engine] openai chưa được cài — AI Engine sẽ dùng template cứng
+[2026-07-04 00:16:27] [INFO] [core.routing] Router (OSRM + adaptive VN waypoint guard + VN time factor) khởi động
+[2026-07-04 00:16:27] [INFO] [core.risk_engine] RiskEngine: 73 hazard zones (builtin=19, json=4, csv=50) · landslide realtime=ON
+[2026-07-04 00:16:27] [INFO] [core.human_aware] HumanAwareRouter khởi động
+[2026-07-04 00:16:27] [INFO] [features.sos] SOSHandler khởi động
+[2026-07-04 00:16:27] [INFO] [features.crowdsource] CrowdsourceEngine: 0 báo cáo đang hoạt động
+[2026-07-04 00:16:27] [INFO] [api.weather_api] WeatherAPI khởi động · OpenWeather=OFF, dùng fallback
+[2026-07-04 00:16:27] [INFO] [api.maps_api] MapsAPI khởi động: Goong=ON, Geoapify=ON, Google=OFF, user_alias=0
+[2026-07-04 00:16:27] [INFO] [api.ai_engine] AIEngine khởi động
+[2026-07-04 00:16:27] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-04 00:16:27] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-04 00:19:05] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-04 00:19:05] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-04 00:39:34] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-04 00:39:34] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-04 00:39:37] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-04 00:39:37] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-04 00:44:05] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-04 00:44:05] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-04 20:56:49] [WARNING] [api.ai_engine] openai chưa được cài — AI Engine sẽ dùng template cứng
+[2026-07-04 20:56:49] [INFO] [core.routing] Router (OSRM + adaptive VN waypoint guard + VN time factor) khởi động
+[2026-07-04 20:56:50] [INFO] [core.risk_engine] RiskEngine: 73 hazard zones (builtin=19, json=4, csv=50) · landslide realtime=ON
+[2026-07-04 20:56:50] [INFO] [core.human_aware] HumanAwareRouter khởi động
+[2026-07-04 20:56:50] [INFO] [features.sos] SOSHandler khởi động
+[2026-07-04 20:56:50] [INFO] [features.crowdsource] CrowdsourceEngine: 0 báo cáo đang hoạt động
+[2026-07-04 20:56:50] [INFO] [api.weather_api] WeatherAPI khởi động · OpenWeather=OFF, dùng fallback
+[2026-07-04 20:56:50] [INFO] [api.maps_api] MapsAPI khởi động: Goong=ON, Geoapify=ON, Google=OFF, user_alias=0
+[2026-07-04 20:56:50] [INFO] [api.ai_engine] AIEngine khởi động
+[2026-07-04 20:56:50] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-04 20:56:50] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-04 20:57:26] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-04 20:57:26] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-04 20:57:28] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-04 20:57:28] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-04 20:57:29] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-04 20:57:29] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-04 20:57:34] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-04 20:57:34] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-04 20:57:36] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-04 20:57:36] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-04 20:57:37] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-04 20:57:37] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-04 20:57:38] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-04 20:57:38] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-04 20:57:43] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-04 20:57:43] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-04 20:57:45] [ERROR] [core.routing] get_alternative_routes lỗi: 400 Client Error: Bad Request for url: http://router.project-osrm.org/route/v1/driving/107.53219861400004,11.38631583800003;108.4583,11.9404?overview=full&geometries=geojson&steps=true&alternatives=4
+[2026-07-04 21:22:59] [WARNING] [api.ai_engine] openai chưa được cài — AI Engine sẽ dùng template cứng
+[2026-07-04 21:22:59] [INFO] [core.routing] Router (OSRM + adaptive VN waypoint guard + VN time factor) khởi động
+[2026-07-04 21:22:59] [INFO] [core.risk_engine] RiskEngine: 73 hazard zones (builtin=19, json=4, csv=50) · landslide realtime=ON
+[2026-07-04 21:22:59] [INFO] [core.human_aware] HumanAwareRouter khởi động
+[2026-07-04 21:22:59] [INFO] [features.sos] SOSHandler khởi động
+[2026-07-04 21:22:59] [INFO] [features.crowdsource] CrowdsourceEngine: 0 báo cáo đang hoạt động
+[2026-07-04 21:22:59] [INFO] [api.weather_api] WeatherAPI khởi động · OpenWeather=OFF, dùng fallback
+[2026-07-04 21:22:59] [INFO] [api.maps_api] MapsAPI khởi động: Goong=ON, Geoapify=ON, Google=OFF, user_alias=0
+[2026-07-04 21:22:59] [INFO] [api.ai_engine] AIEngine khởi động
+[2026-07-04 21:22:59] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-04 21:22:59] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-04 21:23:05] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-04 21:23:05] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-04 21:23:06] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-04 21:23:06] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-04 21:23:10] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-04 21:23:10] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-04 21:23:12] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-04 21:23:12] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-04 21:23:16] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-04 21:23:16] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-04 21:23:16] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-04 21:23:16] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-04 21:23:22] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-04 21:23:22] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-04 21:23:23] [ERROR] [core.routing] get_alternative_routes lỗi: 400 Client Error: Bad Request for url: http://router.project-osrm.org/route/v1/driving/107.53219861400004,11.38631583800003;108.4583,11.9404?overview=full&geometries=geojson&steps=true&alternatives=4
+[2026-07-04 23:51:08] [WARNING] [api.ai_engine] openai chưa được cài — AI Engine sẽ dùng template cứng
+[2026-07-04 23:51:08] [INFO] [core.routing] Router (OSRM + adaptive VN waypoint guard + VN time factor) khởi động
+[2026-07-04 23:51:08] [INFO] [core.risk_engine] RiskEngine: 73 hazard zones (builtin=19, json=4, csv=50) · landslide realtime=ON
+[2026-07-04 23:51:08] [INFO] [core.human_aware] HumanAwareRouter khởi động
+[2026-07-04 23:51:08] [INFO] [features.sos] SOSHandler khởi động
+[2026-07-04 23:51:08] [INFO] [features.crowdsource] CrowdsourceEngine: 0 báo cáo đang hoạt động
+[2026-07-04 23:51:08] [INFO] [api.weather_api] WeatherAPI khởi động · OpenWeather=OFF, dùng fallback
+[2026-07-04 23:51:08] [INFO] [api.maps_api] MapsAPI khởi động: Goong=ON, Geoapify=ON, Google=OFF, user_alias=0
+[2026-07-04 23:51:08] [INFO] [api.ai_engine] AIEngine khởi động
+[2026-07-04 23:51:08] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-04 23:51:08] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-04 23:51:52] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-04 23:51:52] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-04 23:55:13] [WARNING] [api.ai_engine] openai chưa được cài — AI Engine sẽ dùng template cứng
+[2026-07-04 23:55:13] [INFO] [core.routing] Router (OSRM + adaptive VN waypoint guard + VN time factor) khởi động
+[2026-07-04 23:55:13] [INFO] [core.risk_engine] RiskEngine: 73 hazard zones (builtin=19, json=4, csv=50) · landslide realtime=ON
+[2026-07-04 23:55:13] [INFO] [core.human_aware] HumanAwareRouter khởi động
+[2026-07-04 23:55:13] [INFO] [features.sos] SOSHandler khởi động
+[2026-07-04 23:55:13] [INFO] [features.crowdsource] CrowdsourceEngine: 0 báo cáo đang hoạt động
+[2026-07-04 23:55:13] [INFO] [api.weather_api] WeatherAPI khởi động · OpenWeather=OFF, dùng fallback
+[2026-07-04 23:55:13] [INFO] [api.maps_api] MapsAPI khởi động: Goong=ON, Geoapify=ON, Google=OFF, user_alias=0
+[2026-07-04 23:55:13] [INFO] [api.ai_engine] AIEngine khởi động
+[2026-07-04 23:55:13] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-04 23:55:13] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-04 23:59:40] [WARNING] [api.ai_engine] openai chưa được cài — AI Engine sẽ dùng template cứng
+[2026-07-04 23:59:40] [INFO] [core.routing] Router (OSRM + adaptive VN waypoint guard + VN time factor) khởi động
+[2026-07-04 23:59:40] [INFO] [core.risk_engine] RiskEngine: 73 hazard zones (builtin=19, json=4, csv=50) · landslide realtime=ON
+[2026-07-04 23:59:40] [INFO] [core.human_aware] HumanAwareRouter khởi động
+[2026-07-04 23:59:40] [INFO] [features.sos] SOSHandler khởi động
+[2026-07-04 23:59:40] [INFO] [features.crowdsource] CrowdsourceEngine: 0 báo cáo đang hoạt động
+[2026-07-04 23:59:40] [INFO] [api.weather_api] WeatherAPI khởi động · OpenWeather=OFF, dùng fallback
+[2026-07-04 23:59:40] [INFO] [api.maps_api] MapsAPI khởi động: Goong=ON, Geoapify=ON, Google=OFF, user_alias=0
+[2026-07-04 23:59:40] [INFO] [api.ai_engine] AIEngine khởi động
+[2026-07-04 23:59:40] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-04 23:59:40] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-04 23:59:51] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-04 23:59:51] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-05 00:00:42] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-05 00:00:42] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-05 00:00:44] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-05 00:00:44] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-05 00:00:52] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-05 00:00:52] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-05 00:00:55] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-05 00:00:55] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-05 00:01:07] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-05 00:01:07] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-05 00:01:10] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-05 00:01:10] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-05 00:01:12] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-05 00:01:12] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-05 00:03:22] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-05 00:03:22] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-05 00:03:29] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-05 00:03:29] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-05 00:03:50] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-05 00:03:50] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-05 00:04:38] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-05 00:04:38] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-05 00:05:37] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-05 00:05:37] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-05 00:06:03] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-05 00:06:03] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-05 00:06:17] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-05 00:06:17] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-05 00:06:24] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-05 00:06:24] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-05 00:06:37] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-05 00:06:37] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-05 00:06:53] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-05 00:06:53] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-05 00:06:56] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-05 00:06:56] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-05 00:06:56] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-05 00:06:56] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-05 00:07:03] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-05 00:07:03] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-05 00:07:10] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-05 00:07:10] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-05 00:07:45] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-05 00:07:45] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-05 00:07:56] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-05 00:07:56] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-05 00:07:57] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-05 00:07:57] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-05 00:07:58] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-05 00:07:58] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-05 00:08:21] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-05 00:08:21] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-05 00:08:35] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-05 00:08:35] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-05 00:08:42] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-05 00:08:42] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-05 00:08:43] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-05 00:08:43] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-05 00:08:45] [INFO] [features.crowdsource] Báo cáo mới: accident tại (11.441532319155254, 107.71223519503248) — severity 1
+[2026-07-05 00:08:51] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-05 00:08:51] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-05 00:08:52] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-05 00:08:52] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-05 00:08:53] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-05 00:08:53] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-05 00:09:08] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-05 00:09:08] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-05 00:14:29] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-05 00:14:29] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-05 10:08:42] [WARNING] [api.ai_engine] openai chưa được cài — AI Engine sẽ dùng template cứng
+[2026-07-05 10:08:42] [INFO] [core.routing] Router (OSRM + adaptive VN waypoint guard + VN time factor) khởi động
+[2026-07-05 10:08:42] [INFO] [core.risk_engine] RiskEngine: 73 hazard zones (builtin=19, json=4, csv=50) · landslide realtime=ON
+[2026-07-05 10:08:42] [INFO] [core.human_aware] HumanAwareRouter khởi động
+[2026-07-05 10:08:42] [INFO] [features.sos] SOSHandler khởi động
+[2026-07-05 10:08:42] [INFO] [features.crowdsource] Đã xóa 1 báo cáo hết hạn
+[2026-07-05 10:08:42] [INFO] [features.crowdsource] CrowdsourceEngine: 0 báo cáo đang hoạt động
+[2026-07-05 10:08:42] [INFO] [api.weather_api] WeatherAPI khởi động · OpenWeather=OFF, dùng fallback
+[2026-07-05 10:08:42] [INFO] [api.maps_api] MapsAPI khởi động: Goong=ON, Geoapify=ON, Google=OFF, user_alias=0
+[2026-07-05 10:08:42] [INFO] [api.ai_engine] AIEngine khởi động
+[2026-07-05 10:08:42] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-05 10:08:42] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-05 10:08:47] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-05 10:08:47] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-05 10:08:49] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-05 10:08:49] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-05 10:08:55] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-05 10:08:55] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-05 10:08:59] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-05 10:08:59] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-05 10:09:00] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-05 10:09:00] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-05 10:09:07] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-05 10:09:07] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-05 10:09:16] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-05 10:09:16] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-05 10:09:17] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-05 10:09:17] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-05 10:09:25] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-05 10:09:25] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-05 10:09:26] [ERROR] [core.routing] get_alternative_routes lỗi: 400 Client Error: Bad Request for url: http://router.project-osrm.org/route/v1/driving/107.53219861400004,11.38631583800003;108.4583,11.9404?overview=full&geometries=geojson&steps=true&alternatives=4
+[2026-07-05 10:10:10] [ERROR] [api.weather_api] Open-Meteo current lỗi: 503 Server Error: Service Unavailable for url: https://api.open-meteo.com/v1/forecast?latitude=11.538943&longitude=107.944947&current=temperature_2m%2Capparent_temperature%2Crelative_humidity_2m%2Cprecipitation%2Cweather_code%2Cwind_speed_10m%2Ccloud_cover&timezone=auto&forecast_days=1
+[2026-07-14 15:36:22] [WARNING] [api.ai_engine] openai chưa được cài — AI Engine sẽ dùng template cứng
+[2026-07-14 15:36:22] [INFO] [core.routing] Router (OSRM + adaptive VN waypoint guard + VN time factor) khởi động
+[2026-07-14 15:36:22] [INFO] [core.risk_engine] RiskEngine: 73 hazard zones (builtin=19, json=4, csv=50) · landslide realtime=ON
+[2026-07-14 15:36:22] [INFO] [core.human_aware] HumanAwareRouter khởi động
+[2026-07-14 15:36:22] [INFO] [features.sos] SOSHandler khởi động
+[2026-07-14 15:36:22] [INFO] [features.crowdsource] CrowdsourceEngine: 0 báo cáo đang hoạt động
+[2026-07-14 15:36:22] [INFO] [api.weather_api] WeatherAPI khởi động · OpenWeather=OFF, dùng fallback
+[2026-07-14 15:36:22] [INFO] [api.maps_api] MapsAPI khởi động: Goong=ON, Geoapify=ON, Google=OFF, user_alias=0
+[2026-07-14 15:36:22] [INFO] [api.ai_engine] AIEngine khởi động
+[2026-07-14 15:36:22] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-14 15:36:22] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-07-14 20:29:23] [WARNING] [api.ai_engine] openai chưa được cài — AI Engine sẽ dùng template cứng
+[2026-07-14 20:29:23] [INFO] [core.routing] Router (OSRM + adaptive VN waypoint guard + VN time factor) khởi động
+[2026-07-14 20:29:23] [INFO] [core.risk_engine] RiskEngine: 73 hazard zones (builtin=19, json=4, csv=50) · landslide realtime=ON
+[2026-07-14 20:29:23] [INFO] [core.human_aware] HumanAwareRouter khởi động
+[2026-07-14 20:29:23] [INFO] [features.sos] SOSHandler khởi động
+[2026-07-14 20:29:23] [INFO] [features.crowdsource] CrowdsourceEngine: 0 báo cáo đang hoạt động
+[2026-07-14 20:29:23] [INFO] [api.weather_api] WeatherAPI khởi động · OpenWeather=OFF, dùng fallback
+[2026-07-14 20:29:23] [INFO] [api.maps_api] MapsAPI khởi động: Goong=ON, Geoapify=ON, Google=OFF, user_alias=0
+[2026-07-14 20:29:23] [INFO] [api.ai_engine] AIEngine khởi động
+[2026-07-14 20:29:23] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-07-14 20:29:23] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-11-01 09:23:40] [WARNING] [api.ai_engine] openai chưa được cài — AI Engine sẽ dùng template cứng
+[2026-11-01 09:30:55] [WARNING] [api.ai_engine] openai chưa được cài — AI Engine sẽ dùng template cứng
+[2026-11-01 09:30:55] [INFO] [core.routing] Router (OSRM + adaptive VN waypoint guard + VN time factor) khởi động
+[2026-11-01 09:30:55] [INFO] [core.risk_engine] RiskEngine: 73 hazard zones (builtin=19, json=4, csv=50) · landslide realtime=ON
+[2026-11-01 09:30:55] [INFO] [core.human_aware] HumanAwareRouter khởi động
+[2026-11-01 09:30:55] [INFO] [features.sos] SOSHandler khởi động
+[2026-11-01 09:30:55] [INFO] [features.crowdsource] CrowdsourceEngine: 0 báo cáo đang hoạt động
+[2026-11-01 09:30:55] [INFO] [api.weather_api] WeatherAPI khởi động · OpenWeather=OFF, dùng fallback
+[2026-11-01 09:30:55] [INFO] [api.maps_api] MapsAPI khởi động: Goong=ON, Geoapify=ON, Google=OFF, user_alias=0
+[2026-11-01 09:30:55] [INFO] [api.ai_engine] AIEngine khởi động
+[2026-11-01 09:30:55] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-11-01 09:30:55] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-11-01 09:31:24] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-11-01 09:31:24] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-11-01 09:32:13] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-11-01 09:32:13] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-11-01 09:32:18] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-11-01 09:32:18] [INFO] [features.disaster_route] DisasterRouteEngine khởi động
+[2026-11-01 09:32:19] [INFO] [core.reroute] RerouteEngine khởi động
+[2026-11-01 09:32:19] [INFO] [features.disaster_route] DisasterRouteEngine khởi động

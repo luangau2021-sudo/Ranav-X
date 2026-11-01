@@ -1,0 +1,19 @@
+{
+  "version": "1.0",
+  "description": "Câu chuyện văn hóa địa phương cho các điểm tham quan",
+  "stories": {
+    "poi_001": "Hồ Xuân Hương được đặt theo tên nữ sĩ Hồ Xuân Hương — người được mệnh danh là 'Bà chúa thơ Nôm'. Hồ hình thành từ năm 1919 khi người Pháp đắp đập chặn dòng suối Cam Ly. Vào buổi sáng sớm, mặt hồ phẳng lặng như gương phản chiếu rặng thông và núi Lang Biang xa xa.",
+    "poi_002": "Thác Datanla theo tiếng K'Ho có nghĩa là 'nước dưới lá'. Người K'Ho xưa tin rằng nơi đây có thần nước trú ngụ, họ thường làm lễ cúng trước khi vào rừng để xin phép thần linh.",
+    "poi_003": "Chợ Đà Lạt đêm đã tồn tại hơn 80 năm, từ thời người Pháp xây dựng Đà Lạt thành 'Paris thu nhỏ'. Những bó hoa lay ơn, hồng, cẩm chướng được người làm vườn gùi từ đồi xuống từ 3 giờ sáng mỗi ngày.",
+    "poi_004": "Thiền Viện Trúc Lâm nằm trên đồi Phụng Hoàng, bên hồ Tuyền Lâm xanh biếc. Tên 'Trúc Lâm' gợi nhớ thiền phái Trúc Lâm Yên Tử do vua Trần Nhân Tông sáng lập từ thế kỷ 13 — vị vua duy nhất trong lịch sử Việt Nam xuất gia đầu tu.",
+    "poi_006": "Phố cổ Hội An từng là thương cảng quốc tế sầm uất nhất Đông Nam Á thế kỷ 16-17. Thương nhân Nhật Bản, Trung Quốc, Hà Lan đã cùng nhau xây dựng nên kiến trúc giao thoa độc đáo. Những chiếc đèn lồng rực rỡ hôm nay là di sản của tập tục thắp đèn dẫn đường thuyền buôn vào bến ngày xưa.",
+    "poi_007": "Theo truyền thuyết, Vịnh Hạ Long được tạo nên khi Ngọc Hoàng sai Rồng mẹ và đàn Rồng con xuống giúp người Việt chống giặc ngoại xâm. Đàn Rồng phun ngọc châu tạo thành muôn vàn đảo đá chắn giặc. Khi hòa bình lập lại, Rồng mẹ quyến luyến không muốn về trời, nằm lại nơi này mãi mãi.",
+    "poi_008": "Người H'Mông ở Sapa có tục 'chợ tình' độc đáo — nơi trai gái gặp gỡ, tâm tình qua tiếng khèn và điệu múa. Những chiếc váy thổ cẩm xanh đỏ rực rỡ là ngôn ngữ riêng của tình yêu, mỗi hoa văn kể một câu chuyện về gia đình và bản làng."
+  },
+  "local_music": {
+    "Tây Bắc":  "Tiếng khèn H'Mông, hát then dân tộc Tày",
+    "Trung":    "Nhã nhạc cung đình Huế, hát bài chòi Quảng Nam",
+    "Tây Nguyên": "Tiếng cồng chiêng K'Ho, đàn T'Rưng",
+    "Nam Bộ":   "Đờn ca tài tử, hát bội"
+  }
+}
